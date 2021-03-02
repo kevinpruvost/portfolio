@@ -1,4 +1,4 @@
-# kevinpruvost.github.io
+# My Portfolio
 A portfolio presenting my most important projects (WIP).
 
 <p align="center">
