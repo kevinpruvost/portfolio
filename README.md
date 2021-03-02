@@ -41,7 +41,9 @@ It will be made with ReactJS.
     * `"predeploy": "npm run build"`
     * `"deploy": "gh-pages -d build"`
   * So that it looks like this :
+
 <img src="https://github.com/kevinpruvost/portfolio/blob/main/screenshots/Capture.PNG"/>
+
 * Launch this command `npm run deploy`
 * And then push the modifications to the repository.
 
