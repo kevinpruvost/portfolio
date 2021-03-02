@@ -19,4 +19,4 @@ My resume/CV would be more appropriate if you want to know more about me.
 
 Link to test the project : [kevinpruvost.github.io/portfolio]
 
-[kevinpruvost.github.io]: https://kevinpruvost.github.io/portfolio
+[kevinpruvost.github.io/portfolio]: https://kevinpruvost.github.io/portfolio
