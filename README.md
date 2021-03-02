@@ -17,6 +17,6 @@ A portfolio presenting my most important projects (WIP).
 Keep in mind that this does not represent all of my technical knowledge, I've done internships and I don't show here what I learnt working in companies.<br/>
 My resume/CV would be more appropriate if you want to know more about me.
 
-Link to test the project : [kevinpruvost.github.io]
+Link to test the project : [kevinpruvost.github.io/portfolio]
 
-[kevinpruvost.github.io]: https://kevinpruvost.github.io
+[kevinpruvost.github.io]: https://kevinpruvost.github.io/portfolio
