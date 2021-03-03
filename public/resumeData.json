@@ -4,39 +4,24 @@
     "description":"I am a student in Computer Science. I love C++, C#, Python and JavaScript.",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "contactmessage":"Do not hesitate to get in contact in me, via email or phone call, I'll answer with great pleasure.",
+    "email": "pruvostkevin0@gmail.com",
+    "phone": "+33 6 88 05 40 78",
+    "github":"https://github.com/kevinpruvost",
+    "project":"https://github.com/kevinpruvost",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"29 bis rue des Jardiniers",
+      "city":"Nancy",
+      "state":"Grand Est, France",
+      "zip": "54540"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://media-exp1.licdn.com/dms/document/C4D2DAQF4vZ3mMyzoYQ/profile-treasury-document-pdf-analyzed/0/1609854963347?e=1614891600&v=beta&t=_SCN_-OwuYdX9EwccSsB8PZUxo01Czimv9cLiXmKXqo",
     "social":[
-      {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/kevin-pruvost-3766a4178/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
