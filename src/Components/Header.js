@@ -42,10 +42,8 @@ class Header extends Component {
     };
 
     return (
-      <header id="home" className="header" style={{
-         backgroundImage: `url("https://github.com/kevinpruvost/portfolio/blob/gh-pages/images/background.jpg?raw=true")`
-      }}>
-      <ParticlesBg type="custom" config={config} bg={false}/>
+      <header id="home">
+      <ParticlesBg className="header" type="custom" config={config} bg={true}>SalutSalutSalutSalutSalutSalutSalutSalutSalutSalutSalutSalutSalutSalutSalutSalut</ParticlesBg>
       <nav id="nav-wrap">
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
