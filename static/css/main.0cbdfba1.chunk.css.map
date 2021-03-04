@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,OACI,yCAA0C,CAC1C,qBACJ","file":"main.0cbdfba1.chunk.css","sourcesContent":["header {\r\n    background-image: \"/images/background.jpg\";\r\n    background-size: cover;\r\n}"]}
