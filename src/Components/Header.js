@@ -15,9 +15,37 @@ class Header extends Component {
       })
     }
 
+    let config = {
+      num: [3],
+      rps: 0.1,
+      radius: [5, 7],
+      life: [100],
+      v: [0],
+      tha: [-180, 180],
+      // body: "./img/icon.png", // Whether to render pictures
+      // rotate: [20],
+      alpha: [1],
+      scale: [1.5, 2],
+      position: {x:0, y:1000, width:1920, height:1}, // all or center or {x:1,y:1,width:100,height:100}
+      color: ["#e30b57", "#001155"],
+      cross: "bround", // cross or bround
+      random: null,  // or null,
+      g: 0,    // gravity
+      f: [0, -0.5], // force
+      onParticleUpdate: (ctx, particle) => {
+          ctx.beginPath();
+          ctx.rect(particle.p.x, particle.p.y, particle.radius * 2, particle.radius * 2);
+          ctx.fillStyle = particle.color;
+          ctx.fill();
+          ctx.closePath();
+      }
+    };
+
     return (
-      <header id="home">
-      <ParticlesBg type="circle" bg={true} />
+      <header id="home" className="header" style={{
+         backgroundImage: `url("https://github.com/kevinpruvost/portfolio/blob/gh-pages/images/background.jpg?raw=true")`
+      }}>
+      <ParticlesBg type="custom" config={config} bg={false}/>
       <nav id="nav-wrap">
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
