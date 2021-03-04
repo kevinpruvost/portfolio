@@ -36,27 +36,27 @@ class Contact extends Component {
          <div className="row">
             <div className="eight columns">
 
-               <form action="" method="post" id="contactForm" name="contactForm">
+               <form action="https://formspree.io/f/mbjpvbzn" method="POST">
 					<fieldset>
 
                   <div>
-						   <label htmlFor="contactName">Name <span className="required">*</span></label>
-						   <input type="text" defaultValue="" size="35" id="contactName" name="contactName" onChange={this.handleChange}/>
+						   <label htmlFor="Name">Name <span className="required">*</span></label>
+						   <input type="text" defaultValue="" size="35" id="contactName" name="contactName" onChange={this.handleChange} required/>
                   </div>
 
                   <div>
-						   <label htmlFor="contactEmail">Email <span className="required">*</span></label>
-						   <input type="text" defaultValue="" size="35" id="contactEmail" name="contactEmail" onChange={this.handleChange}/>
+						   <label htmlFor="Email">Email <span className="required">*</span></label>
+						   <input type="email" defaultValue="" size="35" id="contactEmail" name="contactEmail" onChange={this.handleChange} required/>
                   </div>
 
                   <div>
-						   <label htmlFor="contactSubject">Subject</label>
-						   <input type="text" defaultValue="" size="35" id="contactSubject" name="contactSubject" onChange={this.handleChange}/>
+						   <label htmlFor="Subject">Subject <span className="required">*</span></label>
+						   <input type="text" defaultValue="" size="35" id="contactSubject" name="contactSubject" onChange={this.handleChange} required/>
                   </div>
 
                   <div>
-                     <label htmlFor="contactMessage">Message <span className="required">*</span></label>
-                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
+                     <label htmlFor="Message">Message <span className="required">*</span></label>
+                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage" required></textarea>
                   </div>
 
                   <div>
