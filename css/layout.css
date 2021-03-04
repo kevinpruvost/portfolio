@@ -204,7 +204,7 @@ ul#nav li.current a { color: #fe6928; }
    position: relative;
    width: 180px;
    height: 180px;
-   margin-right: 25%;
+   margin: auto;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
