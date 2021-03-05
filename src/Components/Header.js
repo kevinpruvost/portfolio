@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import ParticlesBg  from "particles-bg";
+import Anime, {anime} from 'react-anime';
+import { VFXProvider } from 'react-vfx';
 
 class Header extends Component {
   render() {
@@ -43,7 +45,7 @@ class Header extends Component {
 
     return (
       <header id="home">
-      <ParticlesBg className="header" type="custom" config={config} bg={true}>SalutSalutSalutSalutSalutSalutSalutSalutSalutSalutSalutSalutSalutSalutSalutSalut</ParticlesBg>
+      <ParticlesBg className="header" type="custom" config={config} bg={true}></ParticlesBg>
       <nav id="nav-wrap">
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
@@ -58,16 +60,19 @@ class Header extends Component {
       </nav>
 
       <div className="row banner">
+         <Anime elasticity={50} easing='easeOutExpo' duration={5000} opacity={[0, 1]}>
       
          <div className="banner-text">
             <h1 className="responsive-headline">{name}</h1>
-            <h3>{description}.</h3>
+            
+               <h3>{description}.</h3>
             <hr />
             <ul className="social">
                <a href={project} className="button btn project-btn"><i className="fa fa-book"></i>Project</a>
                <a href={github} className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
             </ul>
          </div>
+         </Anime>
       </div>
 
       <p className="scrolldown">
