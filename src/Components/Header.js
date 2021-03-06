@@ -18,13 +18,13 @@ class Header extends Component {
     }
 
     let config = {
-      num: [5, 6],
+      num: [2, 3],
       rps: .5,
       radius: [5, 20, 40],
       life: [50],
       v: [1, 2],
       tha: [-180, 180],
-      body: ["images/rose.png", "images/leaf.png"], // Whether to render pictures
+      body: "images/rose.png", // Whether to render pictures
       // rotate: [20],
       alpha: [1],
       scale: [[0.3, 0.5, 0.7]],
@@ -35,6 +35,9 @@ class Header extends Component {
       g: 0, // gravity
       f: [0, 0.3], // force
     };
+
+    let config2 = config;
+    config2.body = "images/leaf.png";
 
     return (
       <header id="home">
