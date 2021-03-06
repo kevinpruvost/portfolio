@@ -18,29 +18,22 @@ class Header extends Component {
     }
 
     let config = {
-      num: [3],
-      rps: 0.1,
-      radius: [5, 7],
-      life: [100],
-      v: [0],
+      num: [5, 6],
+      rps: .5,
+      radius: [5, 20, 40],
+      life: [50],
+      v: [1, 2],
       tha: [-180, 180],
-      // body: "./img/icon.png", // Whether to render pictures
+      body: ["images/rose.png", "images/leaf.png"], // Whether to render pictures
       // rotate: [20],
       alpha: [1],
-      scale: [1.5, 2],
-      position: {x:0, y:1000, width:1920, height:1}, // all or center or {x:1,y:1,width:100,height:100}
-      color: ["#e30b57", "#001155"],
+      scale: [[0.3, 0.5, 0.7]],
+      position: {x:0, y:-100, width:1920, height:1}, // all or center or {x:1,y:1,width:100,height:100}
+      color: [["#b80d43", "#d60024", "#d60076"]],
       cross: "bround", // cross or bround
-      random: null,  // or null,
-      g: 0,    // gravity
-      f: [0, -0.5], // force
-      onParticleUpdate: (ctx, particle) => {
-          ctx.beginPath();
-          ctx.rect(particle.p.x, particle.p.y, particle.radius * 2, particle.radius * 2);
-          ctx.fillStyle = particle.color;
-          ctx.fill();
-          ctx.closePath();
-      }
+      random: null, // or null,
+      g: 0, // gravity
+      f: [0, 0.3], // force
     };
 
     return (
@@ -54,7 +47,7 @@ class Header extends Component {
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
             <li><a className="smoothscroll" href="#about">About</a></li>
 	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
-            <li><a className="smoothscroll" href="#portfolio">Works</a></li>
+            <li><a className="smoothscroll" href="#portfolio">Projects</a></li>
             <li><a className="smoothscroll" href="#contact">Contact</a></li>
          </ul>
       </nav>

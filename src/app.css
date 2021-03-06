@@ -3,3 +3,7 @@ header {
     background-color: transparent;
     background-size: cover;
 }
+
+body {
+    background: repeating-radial-gradient(#1607ba, #120119)
+}
