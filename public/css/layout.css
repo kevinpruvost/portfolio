@@ -282,6 +282,10 @@ ul#nav li.current a { color: #fe6928; }
 /*	Skill Bars
 /*----------------------------------------------*/
 
+img.skill{
+   max-width: 65%;
+}
+
 .bars {
 	width: 95%;
 	float: left;
