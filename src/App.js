@@ -53,8 +53,6 @@ class App extends Component {
         <Portfolio data={this.state.resumeData.portfolio}/>
         <Contact data={this.state.resumeData.main}/>
         <Footer data={this.state.resumeData.main}/>
-        <MouseParticles g={0} color={["#1607ba", "#910546"]}
-        life={0.3} num={3} level={6} v={0.1}/>
       </div>
     );
   }
