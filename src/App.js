@@ -9,6 +9,8 @@ import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Portfolio from './Components/Portfolio';
 
+import MouseParticles from 'react-mouse-particles';
+
 class App extends Component {
 
   constructor(props){
@@ -51,6 +53,8 @@ class App extends Component {
         <Portfolio data={this.state.resumeData.portfolio}/>
         <Contact data={this.state.resumeData.main}/>
         <Footer data={this.state.resumeData.main}/>
+        <MouseParticles g={0} color={["#1607ba", "#910546"]}
+        life={0.3} num={3} level={6} v={0.1}/>
       </div>
     );
   }
