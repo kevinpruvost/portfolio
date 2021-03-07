@@ -17,7 +17,7 @@ class Header extends Component {
       })
     }
 
-    let config = {
+    const config = {
       num: [2, 3],
       rps: .5,
       radius: [5, 20, 40],
@@ -36,12 +36,29 @@ class Header extends Component {
       f: [0, 0.3], // force
     };
 
-    let config2 = config;
-    config2.body = "images/leaf.png";
+    const config2 = {
+      num: config.num,
+      rps: config.rps,
+      radius: config.radius,
+      life: config.life,
+      v: config.v,
+      tha: config.tha,
+      body: "images/leaf.png", // Whether to render pictures
+      rotate: config.rotate,
+      alpha: config.alpha,
+      scale: config.scale,
+      position: config.position,
+      color: config.color,
+      cross: config.cross, // cross or bround
+      random: config.random, // or null,
+      g: config.g, // gravity
+      f: config.f, // force
+    };
 
     return (
       <header id="home">
       <ParticlesBg className="header" type="custom" config={config} bg={true}></ParticlesBg>
+      <ParticlesBg className="header" type="custom" config={config2} bg={true}></ParticlesBg>
       <nav id="nav-wrap">
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
