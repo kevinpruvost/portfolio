@@ -4,6 +4,13 @@ header {
     background-size: cover;
 }
 
+.feature-item{
+    text-align: center;
+    margin-top:2.5em;
+    padding-left:2em;
+    padding-right:2em;
+}
+
 body {
     background: repeating-radial-gradient(#1607ba, #120119)
 }

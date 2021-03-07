@@ -106,6 +106,16 @@
         "name":"Unreal Engine 4",
         "description":"",
         "image":"ue4.png"
+      },
+      {
+        "name":"Vulkan",
+        "description":"",
+        "image":"vulkan.png"
+      },
+      {
+        "name":"OpenGL",
+        "description":"",
+        "image":"opengl.png"
       }
     ]
   },
