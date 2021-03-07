@@ -4,11 +4,27 @@ header {
     background-size: cover;
 }
 
+.newline{
+  white-space: pre-wrap;
+}
+
+#portfolio h1{
+  font-size: 2rem;
+}
+
 .feature-item{
-    text-align: center;
-    margin-top:2.5em;
-    padding-left:2em;
-    padding-right:2em;
+  text-align: center;
+  margin-top:2.5em;
+  padding-left:2em;
+  padding-right:2em;
+}
+
+.center{
+  text-align: center;
+}
+
+.warning{
+  color: red;
 }
 
 body {
