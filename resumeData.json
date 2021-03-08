@@ -64,27 +64,27 @@
     "skills":[
       {
         "name":"C++",
-        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "description":"",
         "image":"c++.png"
       },
       {
         "name":"Python",
-        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "description":"",
         "image":"python.png"
       },
       {
         "name":"C#",
-        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "description":"",
         "image":"csharp.png"
       },
       {
         "name":"JavaScript",
-        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "description":"",
         "image":"javascript.png"
       },
       {
         "name":"React JS",
-        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "description":"",
         "image":"react.png"
       },
       {
@@ -94,27 +94,27 @@
       },
       {
         "name":"Perforce",
-        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "description":"",
         "image":"perforce.png"
       },
       {
         "name":"Unity",
-        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "description":"",
         "image":"unity.png"
       },
       {
         "name":"Unreal Engine 4",
-        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "description":"",
         "image":"ue4.png"
       },
       {
         "name":"Vulkan",
-        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "description":"",
         "image":"vulkan.png"
       },
       {
         "name":"OpenGL",
-        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "description":"",
         "image":"opengl.png"
       }
     ]
