@@ -437,6 +437,8 @@ img.skill{
 }
 
 #portfolio h1 span {
+   font-size: larger;
+   color: #313131;
    border-bottom: 3px solid #0762f9;
    padding-bottom: 6px;
 }
