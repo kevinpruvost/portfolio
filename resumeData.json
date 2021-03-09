@@ -52,13 +52,20 @@
         "company":"Virtual Rangers, Luxembourg",
         "title":"Internship - C# / Unity Developer",
         "years":"September 2020 - January 2021",
-        "description":"Development of mobile games for events organized by professional clients, like BIL (a luxembourgish bank).\nWorked on Augmented Reality & Virtual Reality applications and games.\nWorked on databases, web applications and on the development of a REST API in order to create an environment where our projects could interact with each other."
+        "description":[
+          "Development of mobile games for events organized by professional clients, like BIL (a luxembourgish bank).",
+          "Worked on Augmented Reality & Virtual Reality applications and games.",
+          "Worked on databases, web applications and on the development of a REST API in order to create an environment where our projects could interact with each other."
+        ]
       },
       {
         "company":"Vivoka, Metz · France",
         "title":"Internship - C++ Developer",
         "years":"July 2019 - December 2019",
-        "description":"Development of a project template builder GUI in C++, capable of building new projects a lot faster, adding other projects' code or submodules from Gitlab.\nDevelopment of a TV program module and a Translation module for a vocal assistant (AI) in C++."
+        "description":[
+          "Development of a project template builder GUI in C++, capable of building new projects a lot faster, adding other projects' code or submodules from Gitlab.",
+          "Development of a TV program module and a Translation module for a vocal assistant (AI) in C++."
+        ]
       }
     ],
     "skills":[
