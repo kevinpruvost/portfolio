@@ -27,7 +27,7 @@ class Header extends Component {
       body: "images/rose.png", // Whether to render pictures
       // rotate: [20],
       alpha: [1],
-      scale: [[0.3, 0.5, 0.7]],
+      scale: [[0.3, 0.4, 0.5, 0.6, 0.7]],
       position: {x:0, y:-100, width:1920, height:1}, // all or center or {x:1,y:1,width:100,height:100}
       color: [["#b80d43", "#d60024", "#d60076"]],
       cross: "bround", // cross or bround
