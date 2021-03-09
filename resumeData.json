@@ -129,34 +129,44 @@
   "portfolio":{
     "projects": [
       {
-        "title":"TempoGuessr",
-        "category":"C# / Unity",
-        "image":"tempoguessr.png",
-        "url":"https://github.com/kevinpruvost/TempoGuessr"
+        "title": "2021",
+        "projects": [
+          {
+            "title":"TempoGuessr",
+            "category":"C# / Unity",
+            "image":"tempoguessr.png",
+            "url":"https://github.com/kevinpruvost/TempoGuessr"
+          }
+        ]
       },
       {
-        "title":"Canard Hunt",
-        "category":"C",
-        "image":"canardhunt.png",
-        "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_hunter_2018"
-      },
-      {
-        "title":"Shrekometry Dash",
-        "category":"C",
-        "image":"shrekometry.png",
-        "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_runner_2018"
-      },
-      {
-        "title":"Shrek Tower Defense",
-        "category":"C",
-        "image":"shrektowerdefense.png",
-        "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_defender_2018"
-      },
-      {
-        "title":"",
-        "category":"C",
-        "image":".png",
-        "url":""
+        "title": "2018",
+        "projects": [
+          {
+            "title":"Canard Hunt",
+            "category":"C",
+            "image":"canardhunt.png",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_hunter_2018"
+          },
+          {
+            "title":"Shrekometry Dash",
+            "category":"C",
+            "image":"shrekometry.png",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_runner_2018"
+          },
+          {
+            "title":"Shrek Tower Defense",
+            "category":"C",
+            "image":"shrektowerdefense.png",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_defender_2018"
+          },
+          {
+            "title":"",
+            "category":"C",
+            "image":".png",
+            "url":""
+          }
+        ]
       }
     ]
   }
