@@ -129,12 +129,6 @@
   "portfolio":{
     "projects": [
       {
-        "title":"WIP",
-        "category":"WIP",
-        "image":"canadian-wanderlust.jpg",
-        "url":"WIP"
-      },
-      {
         "title":"TempoGuessr",
         "category":"C# / Unity",
         "image":"tempoguessr.png",
