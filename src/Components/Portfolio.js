@@ -4,25 +4,39 @@ class Portfolio extends Component {
   render() {
 
     if (this.props.data) {
-      var projects = this.props.data.projects.map(function (projects) {
-        var projectImage = 'images/portfolio/' + projects.image;
-        
-        return (
-          <div key={projects.title} className="columns portfolio-item">
-            <div className="item-wrap">
-              <a href={projects.url} target="_blank" title={projects.title}>
-                <img alt={projects.title} src={projectImage} />
-                <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h5>{projects.title}</h5>
-                    <p>{projects.category}</p>
-                  </div>
-                </div>
-              </a>
-            </div>
-          </div>
+      var projectsDisplay = this.props.data.projects.map(function (projects) {
+        var title = (
+        <div className="header-col">
+         <h1><span>{projects.title}</span></h1>
+        </div>
         )
-      })
+        var projectsDetails = projects.projects.map(function(project) {
+          var projectImage = 'images/portfolio/' + project.image;
+          return (
+            <div key={project.title} className="columns portfolio-item">
+              <div className="item-wrap">
+                <a href={project.url} target="_blank" title={project.title}>
+                  <img className="portfolio-image" alt={project.title} src={projectImage} />
+                  <div className="overlay">
+                    <div className="portfolio-item-meta">
+                      <h5>{project.title}</h5>
+                      <p>{project.category}</p>
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+          )
+        }) // !projectsDetails=
+        return (
+        <div className="row">
+          {title}
+          <div id="portfolio-wrapper" className="bgrid-halves s-bgrid-halves cf">
+            {projectsDetails}
+          </div>
+        </div>
+        )
+      }) // !var projectsDisplay
     }
 
     return (
@@ -34,9 +48,8 @@ class Portfolio extends Component {
 
             <h1>Check Out Some of My Projects.</h1>
 
-            <div id="portfolio-wrapper" className="bgrid-halves s-bgrid-halves cf">
-              {projects}
-            </div>
+            {projectsDisplay}
+
           </div>
         </div>
       </section>

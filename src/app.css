@@ -19,6 +19,11 @@ header {
   padding-right:2em;
 }
 
+.portfolio-image {
+  width: 100%;
+  height: 100%;
+}
+
 .center{
   text-align: center;
 }

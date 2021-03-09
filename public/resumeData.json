@@ -129,10 +129,90 @@
   "portfolio":{
     "projects": [
       {
-        "title":"WIP",
-        "category":"WIP",
-        "image":"canadian-wanderlust.jpg",
-        "url":"WIP"
+        "title": "2021",
+        "projects": [
+          {
+            "title":"TempoGuessr",
+            "category":"C# / Unity",
+            "image":"tempoguessr.png",
+            "url":"https://github.com/kevinpruvost/TempoGuessr"
+          }
+        ]
+      },
+      {
+        "title": "2020",
+        "projects": [
+          {
+            "title":"Babel",
+            "category":"C++",
+            "image":"babel.png",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/ThirdYear/Babel"
+          },
+          {
+            "title":"Dashboard",
+            "category":"React JS / Laravel",
+            "image":"dashboard.png",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/ThirdYear/Dashboard"
+          },
+          {
+            "title":"R-Type",
+            "category":"C++",
+            "image":"r-type.png",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/ThirdYear/R-type"
+          },
+          {
+            "title":"Epicture",
+            "category":"Kotlin",
+            "image":"epicture.png",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/ThirdYear/Epicture"
+          }
+        ]
+      },
+      {
+        "title": "2019",
+        "projects": [
+          {
+            "title":"Des Freds & des Fourchettes",
+            "category":"C++",
+            "image":"freds.png",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/SecondYear/CCP_plazza_2019"
+          },
+          {
+            "title":"Swallow my Junk",
+            "category":"C++",
+            "image":"junk.png",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/SecondYear/JAM_space_2019"
+          },
+          {
+            "title":"Zerggy",
+            "category":"C++",
+            "image":"zerggy.png",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/SecondYear/PSU_2019/PSU_zappy_2019"
+          }
+        ]
+      },
+      {
+        "title": "2018",
+        "projects": [
+          {
+            "title":"Canard Hunt",
+            "category":"C",
+            "image":"canardhunt.png",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_hunter_2018"
+          },
+          {
+            "title":"Shrekometry Dash",
+            "category":"C",
+            "image":"shrekometry.png",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_runner_2018"
+          },
+          {
+            "title":"Shrek Tower Defense",
+            "category":"C",
+            "image":"shrektowerdefense.png",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_defender_2018"
+          }
+        ]
       }
     ]
   }
