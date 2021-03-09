@@ -263,6 +263,11 @@ ul#nav li.current a { color: #fe6928; }
    align-self: center;
 }
 
+#portfolio h1 span {
+   border-bottom: 3px solid #0762f9;
+   padding-bottom: 6px;
+}
+
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
