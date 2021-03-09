@@ -134,7 +134,7 @@
           {
             "title":"TempoGuessr",
             "category":"C# / Unity",
-            "image":"tempoguessr.png",
+            "image":"tempoguessr.jpg",
             "url":"https://github.com/kevinpruvost/TempoGuessr"
           }
         ]
@@ -145,25 +145,25 @@
           {
             "title":"Babel",
             "category":"C++",
-            "image":"babel.png",
+            "image":"babel.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/ThirdYear/Babel"
           },
           {
             "title":"Dashboard",
             "category":"React JS / Laravel",
-            "image":"dashboard.png",
+            "image":"dashboard.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/ThirdYear/Dashboard"
           },
           {
             "title":"R-Type",
             "category":"C++",
-            "image":"r-type.png",
+            "image":"r-type.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/ThirdYear/R-type"
           },
           {
             "title":"Epicture",
             "category":"Kotlin",
-            "image":"epicture.png",
+            "image":"epicture.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/ThirdYear/Epicture"
           }
         ]
@@ -174,19 +174,19 @@
           {
             "title":"Des Freds & des Fourchettes",
             "category":"C++",
-            "image":"freds.png",
+            "image":"freds.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/SecondYear/CCP_plazza_2019"
           },
           {
             "title":"Swallow my Junk",
             "category":"C++",
-            "image":"junk.png",
+            "image":"junk.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/SecondYear/JAM_space_2019"
           },
           {
             "title":"Zerggy",
             "category":"C++",
-            "image":"zerggy.png",
+            "image":"zerggy.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/SecondYear/PSU_2019/PSU_zappy_2019"
           }
         ]
@@ -197,19 +197,19 @@
           {
             "title":"Canard Hunt",
             "category":"C",
-            "image":"canardhunt.png",
+            "image":"canardhunt.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_hunter_2018"
           },
           {
             "title":"Shrekometry Dash",
             "category":"C",
-            "image":"shrekometry.png",
+            "image":"shrekometry.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_runner_2018"
           },
           {
             "title":"Shrek Tower Defense",
             "category":"C",
-            "image":"shrektowerdefense.png",
+            "image":"shrektowerdefense.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_defender_2018"
           }
         ]
