@@ -258,16 +258,6 @@ ul#nav li.current a { color: #fe6928; }
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
-#portfolio .header-col {
-   padding-top: 10px;
-   align-self: center;
-}
-
-#portfolio h1 span {
-   border-bottom: 3px solid #0762f9;
-   padding-bottom: 6px;
-}
-
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
@@ -439,6 +429,16 @@ img.skill{
    text-align: center;
    margin-bottom: 48px;
    color: #95A3A3;
+}
+
+#portfolio .header-col {
+   padding-top: 10px;
+   align-self: center;
+}
+
+#portfolio h1 span {
+   border-bottom: 3px solid #0762f9;
+   padding-bottom: 6px;
 }
 
 /* Portfolio Content */
