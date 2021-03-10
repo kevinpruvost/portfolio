@@ -71,7 +71,7 @@
     "skills":[
       {
         "name":"C++",
-        "description":"It's my absolute favorite language. Mainly because of the balance between optimization, complexity and practicality it has. I really enjoy working with this language, and I feel I can do anything I want with this. Having a creative mindset, the possibilities of creation C++ can give fills me with motivation when I work with it.",
+        "description":"It's my absolute favorite language and also the one I'm the most experienced with. Mainly because of the balance between optimization, complexity and practicality it has. I really enjoy working with this language, and I feel I can do anything I want with this. Having a creative mindset, the possibilities of creation C++ can give fills me with motivation when I work with it.",
         "image":"c++.png"
       },
       {
@@ -86,7 +86,7 @@
       },
       {
         "name":"JavaScript",
-        "description":"",
+        "description":"JS is my favorite web language. Mainly because of how easy it is to start with when you have a background in coding, but also beacause of how fast you can write new code. I had the opportunity to work on the Front-End of some projects, including one during my internships. I also enjoy because of the similarities it has with other languages I love.",
         "image":"javascript.png"
       },
       {
