@@ -26,12 +26,16 @@ class App extends Component {
   }
 
   getResumeData(){
+    const load = document.getElementById('siteLoading')
     $.ajax({
       url:'./resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
         this.setState({resumeData: data});
+        setTimeout(()=>{
+          load.outerHTML='';
+        }, 500)
       }.bind(this),
       error: function(xhr, status, err){
         console.log(err);
