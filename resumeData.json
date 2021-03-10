@@ -111,22 +111,22 @@
       },
       {
         "name":"Unity",
-        "description":"",
+        "description":"My favorite game engine at the moment. Also the one I used the most. I like Unity for its ease of use and its fast learning curve.",
         "image":"unity.png"
       },
       {
         "name":"Unreal Engine 4",
-        "description":"",
+        "description":"As well as my love of Python vs. C++, I think pretty much the same about Unity vs. Unreal Engine. The only different point is that I practiced Unreal Engine less because of its needs in terms of performance.",
         "image":"ue4.png"
       },
       {
         "name":"Vulkan",
-        "description":"",
+        "description":"I'm still discovering this graphics API, but I love it for the control it gives and the performance and cross-platform capacities it has. I followed a very long course on Vulkan and I'll continue to use it.",
         "image":"vulkan.png"
       },
       {
         "name":"OpenGL",
-        "description":"",
+        "description":"I'm learning OpenGL at the same time as Vulkan, because I find it easier to implement, but I know most companies would prefer OpenGL or DirectX, so to stay up to date, I'm learning both of them.",
         "image":"opengl.png"
       }
     ]
