@@ -71,28 +71,33 @@
     "skills":[
       {
         "name":"C++",
-        "description":"",
+        "description":"It's my absolute favorite language and also the one I'm the most experienced with. I enjoy coding in C++ because of how complex yet creative it can be. I feel like I can do anything with C++ and that's why I love it.",
         "image":"c++.png"
       },
       {
         "name":"Python",
-        "description":"",
+        "description":"It's my second preferred language, it could be seen as pretty contradictory considering that my favorite language is C++. But the large variety of syntaxic sugars it has makes it much funnier to code for me.",
         "image":"python.png"
       },
       {
         "name":"C#",
-        "description":"",
+        "description":"C# is the second language I'm the most experienced with. I made a several number of projects in C# including 2 on my internships. I think it's a great and easy language to work with.",
         "image":"csharp.png"
       },
       {
         "name":"JavaScript",
-        "description":"",
+        "description":"JS is my favorite web language. Mainly because of how easy it is to start with, but also beacause of how fast you can write code. I had the opportunity to work on the Front-End of some projects, including one during my internships.",
         "image":"javascript.png"
       },
       {
         "name":"React JS",
-        "description":"",
+        "description":"My favorite JS front framework so far, I've worked with it on multiple projects including this portfolio, and I really enjoy its ease of use and its simplicity.",
         "image":"react.png"
+      },
+      {
+        "name":"Laravel",
+        "description":"I use Laravel, mainly to make the back-end part of my web projects. As the documentation, the templates and the overall code available is pretty clear and practical to use.",
+        "image":"laravel.png"
       },
       {
         "name":"Git",
@@ -101,27 +106,27 @@
       },
       {
         "name":"Perforce",
-        "description":"I'm still a very beginner with the Perforce tools. I'm trying it out with some of my ",
+        "description":"I'm still a beginner with the Perforce tools. I'm trying it out with some of my personal projects. I found out that some big companies use it because of how powerful and practical Perforce tools can be.",
         "image":"perforce.png"
       },
       {
         "name":"Unity",
-        "description":"",
+        "description":"My favorite game engine at the moment. Also the one I used the most. I like Unity for its ease of use and its fast learning curve.",
         "image":"unity.png"
       },
       {
         "name":"Unreal Engine 4",
-        "description":"",
+        "description":"As well as my love of Python vs. C++, I think pretty much the same about Unity vs. Unreal Engine. The only different point is that I practiced Unreal Engine less because of its needs in terms of performance.",
         "image":"ue4.png"
       },
       {
         "name":"Vulkan",
-        "description":"",
+        "description":"I'm still discovering this graphics API, but I love it for the control it gives and the performance and cross-platform capacities it has. I followed a very long course on Vulkan and I'll continue to use it.",
         "image":"vulkan.png"
       },
       {
         "name":"OpenGL",
-        "description":"",
+        "description":"I'm learning OpenGL at the same time as Vulkan, because I find it easier to implement, but I know most companies would prefer OpenGL or DirectX, so to stay up to date, I'm learning both of them.",
         "image":"opengl.png"
       }
     ]
