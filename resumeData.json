@@ -71,17 +71,17 @@
     "skills":[
       {
         "name":"C++",
-        "description":"",
+        "description":"It's my absolute favorite language. Mainly because of the balance between optimization, complexity and practicality it has. I really enjoy working with this language, and I feel I can do anything I want with this. Having a creative mindset, the possibilities of creation C++ can give fills me with motivation when I work with it.",
         "image":"c++.png"
       },
       {
         "name":"Python",
-        "description":"",
+        "description":"It's my second preferred language, it could be seen as pretty contradictory considering that my favorite language is C++ because Python, in terms of complexity and speed of coding, is the opposite of C++. And that's mainly why I like it, when I want to work on small projects meant to be fast to code, I go with Python because of all the shortcuts it gives. The large variety of syntaxic sugars it gives makes it funnier to code.",
         "image":"python.png"
       },
       {
         "name":"C#",
-        "description":"",
+        "description":"C# is the second language I'm the most experienced with. I had an internship wihtin a game/applications company who is using Unity for most of their projects. I made 2 professional projects with this, and having a C++ background and a will to learn more, I got comfortable with the language pretty fast. I think it's a great and easy language to work with.",
         "image":"csharp.png"
       },
       {
