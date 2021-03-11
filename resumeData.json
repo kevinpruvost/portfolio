@@ -196,7 +196,7 @@
           },
           {
             "title":"Zerggy",
-            "category":"C++",
+            "category":"A very special game gathering a lot of technical notions, we had to develop some advanced AI algorithms, network and graphics in C++. Zerggy is an online game where only AIs can play, the purpose of it is to make AIs from other players online compete in an arena, where some little monsters must gather resources, make children, level up by combining themselves, to get to the maximum level. The graphics were heavily inspired by Carbot and Starcraft.",
             "image":"zerggy.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/SecondYear/PSU_2019/PSU_zappy_2019"
           }
