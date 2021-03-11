@@ -138,7 +138,7 @@
         "projects": [
           {
             "title":"TempoGuessr",
-            "category":"C# / Unity",
+            "category":"A game we made for a JAM in less than 1 day with Unity (C#). In TempoGuessr, you play a time travelling gorilla whose target is to learn how to recognize in which timeline he is located. And for that, you will have to place in the correct order 3 images of the same place.",
             "image":"tempoguessr.jpg",
             "url":"https://github.com/kevinpruvost/TempoGuessr"
           },
