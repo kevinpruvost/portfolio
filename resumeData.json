@@ -184,13 +184,13 @@
         "projects": [
           {
             "title":"Des Freds & des Fourchettes",
-            "category":"C++",
+            "category":"A small application whose purpose was to make me learn about multiprocessing and multithreading technical notions (in C++). We had to create a pizza restaurant with kitchens (processes) and cooks (threads). We made a graphical representation of what happens in the program with the SFML library.",
             "image":"freds.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/SecondYear/CCP_plazza_2019"
           },
           {
             "title":"Swallow my Junk",
-            "category":"C++",
+            "category":"A game we made for a JAM with the SFML library in C++. In this game, you are a black hole that has to eat the most junk it encounters in order to survive. We chose this idea because we wanted to try out some special effects algorithms.",
             "image":"junk.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/SecondYear/JAM_space_2019"
           },
@@ -207,19 +207,19 @@
         "projects": [
           {
             "title":"Canard Hunt",
-            "category":"C",
+            "category":"A Duck Hunt like game made with the CSFML library in C.",
             "image":"canardhunt.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_hunter_2018"
           },
           {
             "title":"Shrekometry Dash",
-            "category":"C",
+            "category":"A platformer game inspired by Geometry Dash and Shrek, made with the CSFML library in C.",
             "image":"shrekometry.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_runner_2018"
           },
           {
             "title":"Shrek Tower Defense",
-            "category":"C",
+            "category":"A Tower Defense game in the Shrek style made with the CSFML library in C.",
             "image":"shrektowerdefense.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_defender_2018"
           }
