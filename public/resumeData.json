@@ -13,7 +13,7 @@
       "street":"29 bis rue des Jardiniers",
       "city":"Nancy",
       "state":"Grand Est, France",
-      "zip": "54540"
+      "zip": "54000"
     },
     "website": "http://www.timbakerdev.com",
     "enResumedownload":"https://raw.githubusercontent.com/kevinpruvost/portfolio/main/Resumes/Kevin_Pruvost_Resume_EN.pdf",
@@ -155,7 +155,7 @@
         "projects": [
           {
             "title":"Babel",
-            "category":"C++",
+            "category":"A online vocal and text chat software (Skype-like) we made with Qt and Boost.",
             "image":"babel.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/ThirdYear/Babel"
           },
