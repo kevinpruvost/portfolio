@@ -222,6 +222,12 @@
             "category":"A Tower Defense game in the Shrek style made with the CSFML library in C.",
             "image":"shrektowerdefense.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_defender_2018"
+          },
+          {
+            "title":"Acheron's War",
+            "category":"An RPG containing a mix of many references of films and games made with the CSFML library in C.",
+            "image":"rpg.jpg",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_rpg_2018"
           }
         ]
       }
