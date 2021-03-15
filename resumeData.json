@@ -121,7 +121,7 @@
       },
       {
         "name":"Vulkan",
-        "description":"I'm still discovering this graphics API, but I love it for the control it gives and the performance and cross-platform capacities it has. I followed a very long course on Vulkan and I'll continue to use it.",
+        "description":"I'm still discovering this graphics API, but I love it for the control it gives, its performance and the cross-platform capacities it has. I followed a very long course on Vulkan and I'll continue to work on it.",
         "image":"vulkan.png"
       },
       {
