@@ -121,12 +121,12 @@
       },
       {
         "name":"Vulkan",
-        "description":"I'm still discovering this graphics API, but I love it for the control it gives and the performance and cross-platform capacities it has. I followed a very long course on Vulkan and I'll continue to use it.",
+        "description":"I'm still discovering this graphics API, but I love it for the control it gives, its performance and the cross-platform capacities it has. I followed a very long course on Vulkan and I'll continue to work on it.",
         "image":"vulkan.png"
       },
       {
         "name":"OpenGL",
-        "description":"I'm learning OpenGL at the same time as Vulkan, because I find it easier to implement, but I know most companies would prefer OpenGL or DirectX, so to stay up to date, I'm learning both of them.",
+        "description":"I'm learning OpenGL at the same time as Vulkan, because I find it easier to implement, but I know most companies still want to work with OpenGL, but also DirectX and Vulkan, so to stay up to date, I'm learning both of them, DirectX is for later :)",
         "image":"opengl.png"
       }
     ]
