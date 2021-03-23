@@ -161,19 +161,19 @@
           },
           {
             "title":"Dashboard",
-            "category":"React JS / Laravel",
+            "category":"A dashboard containing multiple online widgets gathering informations from different APIs, made with React JS / Laravel. For instance, there's a Coinbase widget showing the amount of Bitcoin you have on your wallet or a widget showing you the weather, ...",
             "image":"dashboard.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/ThirdYear/Dashboard"
           },
           {
             "title":"R-Type",
-            "category":"C++",
+            "category":"A game engine made in C++ with the SFML and Boost libraries. We used the ECS architecture (Entities Components Systems). The game engine has network, multithreading, dynamic linking and game loops abilities. We also made a small game which looks like the R-Type game.",
             "image":"r-type.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/ThirdYear/R-type"
           },
           {
             "title":"Epicture",
-            "category":"Kotlin",
+            "category":"A mobile application containing interactions and informations from the Imgur API, bound with the OAuth system. The application was made with Kotlin.",
             "image":"epicture.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/ThirdYear/Epicture"
           }
