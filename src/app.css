@@ -14,9 +14,10 @@ header {
 
 .feature-item{
   text-align: center;
-  margin-top:2.5em;
-  padding-left:2em;
-  padding-right:2em;
+  margin-top: 2.5em;
+  padding-left: 2em;
+  padding-right: 2em;
+  min-height: 500px;
 }
 
 .portfolio-image {
