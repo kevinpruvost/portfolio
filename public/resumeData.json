@@ -100,21 +100,6 @@
         "image":"laravel.png"
       },
       {
-        "name":"Git",
-        "description":"I used Git for all of my projects, whether it was with companies, for personal projects or for school projects.",
-        "image":"git.png"
-      },
-      {
-        "name":"SVN",
-        "description":"I used SVN for some projects within the companies I worked with.",
-        "image":"svn.png"
-      },
-      {
-        "name":"Perforce",
-        "description":"I'm still a beginner with the Perforce tools. I'm trying it out with some of my personal projects. I found out that some big companies use it because of how powerful and practical Perforce tools can be.",
-        "image":"perforce.png"
-      },
-      {
         "name":"Unity",
         "description":"My favorite game engine at the moment. Also the one I used the most. I like Unity for its ease of use and its fast learning curve.",
         "image":"unity.png"
@@ -133,6 +118,21 @@
         "name":"OpenGL",
         "description":"I'm learning OpenGL at the same time as Vulkan, because I find it easier to implement, but I know most companies still want to work with OpenGL, but also DirectX and Vulkan, so to stay up to date, I'm learning both of them, DirectX is for later :)",
         "image":"opengl.png"
+      },
+      {
+        "name":"Git",
+        "description":"I used Git for all of my projects, whether it was with companies, for personal projects or for school projects.",
+        "image":"git.png"
+      },
+      {
+        "name":"SVN",
+        "description":"I used SVN for some projects within the companies I worked with.",
+        "image":"svn.png"
+      },
+      {
+        "name":"Perforce",
+        "description":"I'm still a beginner with the Perforce tools. I'm trying it out with some of my personal projects. I found out that some big companies use it because of how powerful and practical Perforce tools can be.",
+        "image":"perforce.png"
       }
     ]
   },
