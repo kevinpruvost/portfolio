@@ -23,9 +23,9 @@ Link to test the project / check the portfolio : [kevinpruvost.github.io/portfol
 
 # Description
 
-It will contain a presentation of the projects I'm the most proud of, a brief description of my personnality, what I love to do and the values I believe in.
+It contains a presentation of the projects I'm the most proud of, a brief description of my personnality, what I love to do and the values I believe in.
 
-It will be made with ReactJS.
+Made with ReactJS.
 
 # Brief Tutorial on how to host a React portfolio on Github Pages
 
