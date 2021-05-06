@@ -71,22 +71,22 @@
     "skills":[
       {
         "name":"C++",
-        "description":"It's my absolute favorite language and also the one I'm the most experienced with. I enjoy coding in C++ because of how complex yet creative it can be. I feel like I can do anything with C++ and that's why I love it.",
+        "description":"My absolute favorite language and also the one I'm the most experienced with. I enjoy coding in C++ because of how complex yet creative it can be. I feel like I can do anything with C++ and that's why I love it.",
         "image":"c++.png"
       },
       {
         "name":"Python",
-        "description":"It's my second preferred language, it could be seen as pretty contradictory considering that my favorite language is C++. But the large variety of syntaxic sugars it has makes it much funnier to code for me.",
+        "description":"My second preferred language, it could be seen as pretty contradictory considering that my favorite language is C++. But the large variety of syntaxic sugars it has makes it much funnier to code for me.",
         "image":"python.png"
       },
       {
         "name":"C#",
-        "description":"C# is the second language I'm the most experienced with. I made a several number of projects in C# including 2 on my internships. I think it's a great and easy language to work with.",
+        "description":"The second language I'm the most experienced with. I made a several number of projects in C# including 2 on my internships. I think it's a great and easy language to work with.",
         "image":"csharp.png"
       },
       {
         "name":"JavaScript",
-        "description":"JS is my favorite web language. Mainly because of how easy it is to start with, but also beacause of how fast you can write code. I had the opportunity to work on the Front-End of some projects, including one during my internships.",
+        "description":"My favorite web language. Mainly because of how easy it is to start with, but also beacause of how fast you can write code. I had the opportunity to work on the Front-End of some projects, including one during my internships.",
         "image":"javascript.png"
       },
       {
@@ -120,6 +120,11 @@
         "image":"opengl.png"
       },
       {
+        "name":"Qt",
+        "description":"I used to work on Qt for a small bunch of projects. I got some professional experience with Qt on my first internship where Qt was one of their core libraries.",
+        "image":"qt.png"
+      },
+      {
         "name":"Git",
         "description":"I used Git for all of my projects, whether it was with companies, for personal projects or for school projects.",
         "image":"git.png"
@@ -133,6 +138,26 @@
         "name":"SVN",
         "description":"I used SVN for some projects within the companies I worked with.",
         "image":"svn.png"
+      },
+      {
+        "name":"Visual Studio",
+        "description":"By far, my favorite IDE, I use it for all of my C++ and C# projects. I love its adaptation and customization capabilities and also its implementation of CMake. It's so efficient & practical that I can't work without it.",
+        "image":"vs.png"
+      },
+      {
+        "name":"Visual Studio Code",
+        "description":"As a lighter version of Visual Studio but also more polymorphic, I use whenever I have to work on every other languages than C++, C# and Python.",
+        "image":"vscode.png"
+      },
+      {
+        "name":"PyCharm",
+        "description":"My favorite Python IDE. I really like this one for its huge number of features related to Python, pip, ...",
+        "image":"pycharm.png"
+      },
+      {
+        "name":"Emacs",
+        "description":"The first IDE I coded with. I'm not using it anymore nowadays, but it's a good souvenir to keep.",
+        "image":"emacs.png"
       }
     ]
   },
