@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Kevin Pruvost",
-    "description":"Hello ! I'm a student in Computer Science passionate about Software Engineering, Computer Graphics and Low-Level Programming",
+    "description":"Hello 🤗 ! I'm a student in Computer Science passionate about Software Engineering, Computer Graphics and Low-Level Programming",
     "image":"profilepic.jpg",
-    "bio":"I am a passionate and hardworking developer, with a team working spirit.\nI developped an interest through my years of coding in Software Engineering, AI, Game Development, Low Level Programming and Computer Graphics. I'm focusing the rest of my studies on these subjects, and for that, I'm currently preparing myself for a year of studies abroad, in the Tsinghua University, where they teach all of these subjects. For my future career, my ultimate wish is to get a job in one of these specialties, in a company with passionate people from every levels of experience, where everybody wants to share their knowledge and where team work is at its best, in terms of fun but also of efficiency.",
-    "contactmessage":"Do not hesitate to contact me, via email or phone call, I'll answer with great pleasure.",
+    "bio":"I am a passionate and hardworking developer 👨‍💻, with a team working spirit 👨‍👨‍👦‍👦.\nI developped an interest through my years of coding in Software Engineering, AI, Game Development, Low Level Programming and Computer Graphics. I'm focusing the rest of my studies on these subjects, and for that, I'm currently preparing myself for a year of studies abroad 🧳, in the Tsinghua University, where they teach all of these subjects. For my future career, my ultimate wish is to get a job in one of these specialties, in a company with passionate people from every levels of experience, where everybody wants to share their knowledge and where team work is at its best, in terms of fun but also of efficiency.",
+    "contactmessage":"Do not hesitate to contact me, via email ✉️ or phone call ☎️, I'll answer with great pleasure.",
     "email": "pruvostkevin0@gmail.com",
     "phone": "+33 (0)6 88 05 40 78",
     "github":"https://github.com/kevinpruvost",
@@ -71,12 +71,12 @@
     "skills":[
       {
         "name":"C++",
-        "description":"My absolute favorite language and also the one I'm the most experienced with. I enjoy coding in C++ because of how complex yet creative it can be. I feel like I can do anything with C++ and that's why I love it.",
+        "description":"My absolute favorite language 💛 and also the one I'm the most experienced with. I enjoy coding in C++ because of how complex yet creative it can be. I feel like I can do anything with C++ and that's why I love it.",
         "image":"c++.png"
       },
       {
         "name":"Python",
-        "description":"My second preferred language, it could be seen as pretty contradictory considering that my favorite language is C++. But the large variety of syntaxic sugars it has makes it much funnier to code for me.",
+        "description":"My second preferred language 💙, it could be seen as pretty contradictory considering that my favorite language is C++. But the large variety of syntaxic sugars it has makes it much funnier to code for me.",
         "image":"python.png"
       },
       {
@@ -86,7 +86,7 @@
       },
       {
         "name":"JavaScript",
-        "description":"My favorite web language. Mainly because of how easy it is to start with, but also beacause of how fast you can write code. I had the opportunity to work on the Front-End of some projects, including one during my internships.",
+        "description":"My favorite web language 💜. Mainly because of how easy it is to start with, but also beacause of how fast you can write code. I had the opportunity to work on the Front-End of some projects, including one during my internships.",
         "image":"javascript.png"
       },
       {
@@ -167,14 +167,14 @@
         "title": "2021",
         "projects": [
           {
-            "title":"TempoGuessr",
-            "category":"A game we made for a JAM in less than 1 day with Unity (C#). In TempoGuessr, you play a time travelling gorilla whose target is to learn how to recognize in which timeline he is located. And for that, you will have to place in the correct order 3 images of the same place.",
+            "title":"TempoGuessr 🦍",
+            "category":"A game we made for a JAM in less than 1 day with Unity (C#). In TempoGuessr, you play a time travelling gorilla whose target is to learn how to recognize in which timeline he is located 👨‍🔬. And for that, you will have to place in the correct order 3 images of the same place.",
             "image":"tempoguessr.jpg",
             "url":"https://github.com/kevinpruvost/TempoGuessr"
           },
           {
-            "title":"Google Hash Code 2021",
-            "category":"A world wide 🐑 programming contest organized by Google. Our team's name is Euclid Engine. We managed to get in the Top 3.9% (360th) in the world, and we got the 24th place among the french contestants.",
+            "title":"Google Hash Code 2021 🏆",
+            "category":"A world wide programming contest organized by Google. Our team's name is Euclid Engine. We managed to get in the Top 3.9% (360th) in the world, and we got the 24th place among the french contestants.",
             "image":"hashcode2021.jpg",
             "url":"https://codingcompetitions.withgoogle.com/hashcode/archive/2021"
           }
@@ -184,25 +184,25 @@
         "title": "2020",
         "projects": [
           {
-            "title":"Babel",
+            "title":"Babel 📞",
             "category":"A online vocal and text chat software (Skype-like) we made with Qt and Boost.",
             "image":"babel.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/ThirdYear/Babel"
           },
           {
-            "title":"Dashboard",
+            "title":"Dashboard 🎫",
             "category":"A dashboard containing multiple online widgets gathering informations from different APIs, made with React JS / Laravel. For instance, there's a Coinbase widget showing the amount of Bitcoin you have on your wallet or a widget showing you the weather, ...",
             "image":"dashboard.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/ThirdYear/Dashboard"
           },
           {
-            "title":"R-Type",
+            "title":"R-Type 👨‍💻",
             "category":"A game engine made in C++ with the SFML and Boost libraries. We used the ECS architecture (Entities Components Systems). The game engine has network, multithreading, dynamic linking and game loops abilities. We also made a small game which looks like the R-Type game.",
             "image":"r-type.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/ThirdYear/R-type"
           },
           {
-            "title":"Epicture",
+            "title":"Epicture 🖼️",
             "category":"A mobile application containing interactions and informations from the Imgur API, bound with the OAuth system. The application was made with Kotlin.",
             "image":"epicture.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/ThirdYear/Epicture"
@@ -213,19 +213,19 @@
         "title": "2019",
         "projects": [
           {
-            "title":"Zerggy",
+            "title":"Zerggy 🌸",
             "category":"A very special game gathering a lot of technical notions, we had to develop some advanced AI algorithms, network and graphics in C++. Zerggy is an online game where only AIs can play, the purpose of it is to make AIs from other players online compete in an arena, where some little monsters must gather resources, make children, level up by combining themselves, to get to the maximum level. The graphics were heavily inspired by Carbot and Starcraft.",
             "image":"zerggy.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/SecondYear/PSU_2019/PSU_zappy_2019"
           },
           {
-            "title":"Swallow my Junk",
+            "title":"🚀 Swallow my Junk 🍽️",
             "category":"A game we made for a JAM with the SFML library in C++. In this game, you are a black hole that has to eat the most junk it encounters in order to survive. We chose this idea because we wanted to try out some special effects algorithms.",
             "image":"junk.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/SecondYear/JAM_space_2019"
           },
           {
-            "title":"Des Freds & des Fourchettes",
+            "title":"Des Freds & des Fourchettes 🍕",
             "category":"A small application whose purpose was to make me learn about multiprocessing and multithreading technical notions (in C++). We had to create a pizza restaurant with kitchens (processes) and cooks (threads). We made a graphical representation of what happens in the program with the SFML library.",
             "image":"freds.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/SecondYear/CCP_plazza_2019"
@@ -236,25 +236,25 @@
         "title": "2018",
         "projects": [
           {
-            "title":"Acheron's War",
+            "title":"Acheron's War 🔮",
             "category":"An RPG containing a mix of many references of films and games made with the CSFML library in C.",
             "image":"rpg.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_rpg_2018"
           },
           {
-            "title":"Shrek Tower Defense",
+            "title":"Shrek Tower Defense 🕹️",
             "category":"A Tower Defense game in the Shrek style made with the CSFML library in C.",
             "image":"shrektowerdefense.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_defender_2018"
           },
           {
-            "title":"Shrekometry Dash",
+            "title":"Shrekometry Dash ⏹️",
             "category":"A platformer game inspired by Geometry Dash and Shrek, made with the CSFML library in C.",
             "image":"shrekometry.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_runner_2018"
           },
           {
-            "title":"Canard Hunt",
+            "title":"Canard Hunt 🦆",
             "category":"A Duck Hunt like game made with the CSFML library in C.",
             "image":"canardhunt.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_hunter_2018"
