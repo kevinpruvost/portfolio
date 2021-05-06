@@ -146,7 +146,7 @@
       },
       {
         "name":"Visual Studio Code",
-        "description":"As a lighter version of Visual Studio but also more polymorphic, I use whenever I have to work on every other languages than C++, C# and Python.",
+        "description":"As a lighter version of Visual Studio but also more polymorphic, I use it whenever I have to work on every other languages than C++, C# and Python.",
         "image":"vscode.png"
       },
       {
@@ -213,10 +213,10 @@
         "title": "2019",
         "projects": [
           {
-            "title":"Des Freds & des Fourchettes",
-            "category":"A small application whose purpose was to make me learn about multiprocessing and multithreading technical notions (in C++). We had to create a pizza restaurant with kitchens (processes) and cooks (threads). We made a graphical representation of what happens in the program with the SFML library.",
-            "image":"freds.jpg",
-            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/SecondYear/CCP_plazza_2019"
+            "title":"Zerggy",
+            "category":"A very special game gathering a lot of technical notions, we had to develop some advanced AI algorithms, network and graphics in C++. Zerggy is an online game where only AIs can play, the purpose of it is to make AIs from other players online compete in an arena, where some little monsters must gather resources, make children, level up by combining themselves, to get to the maximum level. The graphics were heavily inspired by Carbot and Starcraft.",
+            "image":"zerggy.jpg",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/SecondYear/PSU_2019/PSU_zappy_2019"
           },
           {
             "title":"Swallow my Junk",
@@ -225,10 +225,10 @@
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/SecondYear/JAM_space_2019"
           },
           {
-            "title":"Zerggy",
-            "category":"A very special game gathering a lot of technical notions, we had to develop some advanced AI algorithms, network and graphics in C++. Zerggy is an online game where only AIs can play, the purpose of it is to make AIs from other players online compete in an arena, where some little monsters must gather resources, make children, level up by combining themselves, to get to the maximum level. The graphics were heavily inspired by Carbot and Starcraft.",
-            "image":"zerggy.jpg",
-            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/SecondYear/PSU_2019/PSU_zappy_2019"
+            "title":"Des Freds & des Fourchettes",
+            "category":"A small application whose purpose was to make me learn about multiprocessing and multithreading technical notions (in C++). We had to create a pizza restaurant with kitchens (processes) and cooks (threads). We made a graphical representation of what happens in the program with the SFML library.",
+            "image":"freds.jpg",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/SecondYear/CCP_plazza_2019"
           }
         ]
       },
@@ -236,16 +236,10 @@
         "title": "2018",
         "projects": [
           {
-            "title":"Canard Hunt",
-            "category":"A Duck Hunt like game made with the CSFML library in C.",
-            "image":"canardhunt.jpg",
-            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_hunter_2018"
-          },
-          {
-            "title":"Shrekometry Dash",
-            "category":"A platformer game inspired by Geometry Dash and Shrek, made with the CSFML library in C.",
-            "image":"shrekometry.jpg",
-            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_runner_2018"
+            "title":"Acheron's War",
+            "category":"An RPG containing a mix of many references of films and games made with the CSFML library in C.",
+            "image":"rpg.jpg",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_rpg_2018"
           },
           {
             "title":"Shrek Tower Defense",
@@ -254,10 +248,16 @@
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_defender_2018"
           },
           {
-            "title":"Acheron's War",
-            "category":"An RPG containing a mix of many references of films and games made with the CSFML library in C.",
-            "image":"rpg.jpg",
-            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_rpg_2018"
+            "title":"Shrekometry Dash",
+            "category":"A platformer game inspired by Geometry Dash and Shrek, made with the CSFML library in C.",
+            "image":"shrekometry.jpg",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_runner_2018"
+          },
+          {
+            "title":"Canard Hunt",
+            "category":"A Duck Hunt like game made with the CSFML library in C.",
+            "image":"canardhunt.jpg",
+            "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_hunter_2018"
           }
         ]
       }
