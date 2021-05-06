@@ -70,13 +70,13 @@
     ],
     "skills":[
       {
-        "name":"C++",
-        "description":"My absolute favorite language 💛 and also the one I'm the most experienced with. I enjoy coding in C++ because of how complex yet creative it can be. I feel like I can do anything with C++ and that's why I love it.",
+        "name":"💛 C++ 💛",
+        "description":"My absolute favorite language and also the one I'm the most experienced with. I enjoy coding in C++ because of how complex yet creative it can be. I feel like I can do anything with C++ and that's why I love it.",
         "image":"c++.png"
       },
       {
-        "name":"Python",
-        "description":"My second preferred language 💙, it could be seen as pretty contradictory considering that my favorite language is C++. But the large variety of syntaxic sugars it has makes it much funnier to code for me.",
+        "name":"💙 Python 💙",
+        "description":"My second preferred language, it could be seen as pretty contradictory considering that my favorite language is C++. But the large variety of syntaxic sugars it has makes it much funnier to code for me.",
         "image":"python.png"
       },
       {
@@ -85,8 +85,8 @@
         "image":"csharp.png"
       },
       {
-        "name":"JavaScript",
-        "description":"My favorite web language 💜. Mainly because of how easy it is to start with, but also beacause of how fast you can write code. I had the opportunity to work on the Front-End of some projects, including one during my internships.",
+        "name":"💜 JavaScript 💜",
+        "description":"My favorite web language. Mainly because of how easy it is to start with, but also beacause of how fast you can write code. I had the opportunity to work on the Front-End of some projects, including one during my internships.",
         "image":"javascript.png"
       },
       {
