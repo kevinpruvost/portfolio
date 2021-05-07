@@ -39,7 +39,7 @@
         "degree":"Masters in IT (Expert en Technologies de l'Information)",
         "graduated":"2018 - 2023",
         "logo":"epitech.png",
-        "link":"https://lyc-boutet-de-monvel.monbureaunumerique.fr/",
+        "link":"https://www.epitech.eu/",
         "description":"Mathematics, Unix Systems, Shell, Multithreading, Functional Programming, AI, GUI, Dynamic Linking, Low-Level Programming, Computer Graphics (SFML, SDL, CSFML, OpenGL), Web & Mobile Development."
       },
       {
@@ -47,7 +47,7 @@
         "degree":"High School Diploma in Sciences (Baccalauréat Scientifique)",
         "graduated":"2015 - 2018",
         "logo":"highschool.png",
-        "link":"https://www.epitech.eu/",
+        "link":"https://lyc-boutet-de-monvel.monbureaunumerique.fr/",
         "description": "Option : Computer & Digital Sciences (Informatique et Sciences du Numérique)"
       }
     ],
