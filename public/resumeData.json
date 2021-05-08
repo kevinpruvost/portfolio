@@ -38,20 +38,36 @@
         "school":"EPITECH, Nancy · France",
         "degree":"Masters in IT (Expert en Technologies de l'Information)",
         "graduated":"2018 - 2023",
+        "logo":"epitech.png",
+        "link":"https://www.epitech.eu/",
         "description":"Mathematics, Unix Systems, Shell, Multithreading, Functional Programming, AI, GUI, Dynamic Linking, Low-Level Programming, Computer Graphics (SFML, SDL, CSFML, OpenGL), Web & Mobile Development."
       },
       {
         "school":"Lycée Jacques-Marie Boutet de Monvel,\nLunéville · France",
         "degree":"High School Diploma in Sciences (Baccalauréat Scientifique)",
         "graduated":"2015 - 2018",
+        "logo":"highschool.png",
+        "link":"https://lyc-boutet-de-monvel.monbureaunumerique.fr/",
         "description": "Option : Computer & Digital Sciences (Informatique et Sciences du Numérique)"
       }
     ],
     "work":[
       {
+        "company":"RhinoTerrain, Nancy",
+        "title":"Internship - C++ Developer",
+        "years":"April 2021 - July 2021",
+        "logo":"rhinoterrain.png",
+        "link":"https://www.rhinoterrain.com/fr/",
+        "description":[
+          "Currently in internship with them."
+        ]
+      },
+      {
         "company":"Virtual Rangers, Luxembourg",
         "title":"Internship - C# / Unity Developer",
         "years":"September 2020 - January 2021",
+        "logo":"vrangers.png",
+        "link":"https://virtual-rangers.com/",
         "description":[
           "Development of mobile games for events organized by professional clients, like BIL (a luxembourgish bank).",
           "Worked on Augmented Reality & Virtual Reality applications and games.",
@@ -62,6 +78,8 @@
         "company":"Vivoka, Metz · France",
         "title":"Internship - C++ Developer",
         "years":"July 2019 - December 2019",
+        "logo":"vivoka.png",
+        "link":"https://vivoka.com/fr/",
         "description":[
           "Development of a project template builder GUI in C++, capable of building new projects a lot faster, adding other projects' code or submodules from Gitlab.",
           "Development of a TV program module and a Translation module for a vocal assistant (AI) in C++."
@@ -86,7 +104,7 @@
       },
       {
         "name":"💜 JavaScript 💜",
-        "description":"My favorite web language. Mainly because of how easy it is to start with, but also beacause of how fast you can write code. I had the opportunity to work on the Front-End of some projects, including one during my internships.",
+        "description":"My favorite web language. Mainly because of how easy it is to start with, but also because of how fast you can write code. I had the opportunity to work on the Front-End of some projects, including one during my internships.",
         "image":"javascript.png"
       },
       {
@@ -101,7 +119,7 @@
       },
       {
         "name":"Unity",
-        "description":"My favorite game engine at the moment. Also the one I used the most. I like Unity for its ease of use and its fast learning curve.",
+        "description":"My favorite game engine at the moment. Also the one I use the most. I like Unity for its ease of use and its fast learning curve.",
         "image":"unity.png"
       },
       {

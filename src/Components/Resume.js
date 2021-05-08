@@ -16,24 +16,35 @@ class Resume extends Component {
     if(this.props.data){
       var skillmessage = this.props.data.skillmessage;
       var education = this.props.data.education.map(function(education){
-        return <div key={education.school}><h3>{education.school}</h3>
-        <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
-        <p>{education.description}</p></div>
+        var educImage = 'images/work_education/'+ education.logo;
+        return <div key={education.school} className="row" style={{display: 'flex'}}>
+          <a href={education.link} target="_blank" style={{flex: '25%', margin: 'auto'}}><img src={educImage} height="128" width="128"/></a>
+          <div style={{flex: '75%'}}>
+            <h3>{education.school}</h3>
+            <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
+            <p>{education.description}</p>
+          </div>
+        </div>
       })
       var work = this.props.data.work.map(function(work){
-        return <div key={work.company}><h3>{work.company}</h3>
-            <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
-            <ul>{
-                work.description.map(function(item, idx) {
-                  return (
-                    <li>
-                          {item}
-                          <br/>
-                    </li>
-                   )
-              })
+        var workImage = 'images/work_education/'+ work.logo;
+        return <div key={work.company} className="row" style={{display: 'flex'}}>
+            <a href={work.link} target="_blank" style={{flex: '25%', margin: 'auto'}}><img src={workImage} height="128" width="128"/></a>
+            <div style={{flex: '75%'}}>
+              <h3>{work.company}</h3>
+              <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
+              <ul>{
+                  work.description.map(function(item, idx) {
+                    return (
+                      <li>
+                            {item}
+                            <br/>
+                      </li>
+                     )
+                })
                 
-            }</ul>
+              }</ul>
+          </div>
         </div>
       })
 
