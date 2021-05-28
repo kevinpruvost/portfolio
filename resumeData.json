@@ -185,6 +185,12 @@
         "title": "2021",
         "projects": [
           {
+            "title":"GreedyBoy 💰",
+            "category":"Automated cryptocurrencies trading bot made with Python. GreedyBoy is made to run on AWS Lambda servers 24/7, it also uses the Kraken API in order to make cryptocurrency orders.",
+            "image":"greedyboy.jpg",
+            "url":"https://kevinpruvost.github.io/GreedyBoy/"
+          },
+          {
             "title":"TempoGuessr 🦍",
             "category":"A game we made for a JAM in less than 1 day with Unity (C#). In TempoGuessr, you play a time travelling gorilla whose target is to learn how to recognize in which timeline he is located 👨‍🔬. And for that, you will have to place in the correct order 3 images of the same place.",
             "image":"tempoguessr.jpg",
