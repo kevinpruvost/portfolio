@@ -186,7 +186,7 @@
         "projects": [
           {
             "title":"GreedyBoy 💰",
-            "category":"Automated cryptocurrencies trading bot made with Python. GreedyBoy is made to run on AWS Lambda servers 24/7, it also uses the Kraken API in order to make cryptocurrency orders.",
+            "category":"Automated cryptocurrencies trading bot made with Python. GreedyBoy is made to run on AWS Lambda servers 24/7, it also uses the Kraken API in order to make cryptocurrency orders. (I made it all alone)",
             "image":"greedyboy.jpg",
             "url":"https://kevinpruvost.github.io/GreedyBoy/"
           },
