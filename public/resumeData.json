@@ -59,7 +59,8 @@
         "logo":"rhinoterrain.png",
         "link":"https://www.rhinoterrain.com/fr/",
         "description":[
-          "Currently in internship with them."
+          "Research & Development on the optimization of textures generation methods from pictures of an entity (Geometry, Linear Algebra, OpenGL, Multihreading, Shaders, ...).",
+          "Development of a plugin capable of fixing data (position & rotation) from pictures used for photogrammetry, the data fixing process is done through either an MFC GUI or a 3D interactive GUI implemented in Rhinoceros3D, the plugin has a preview system that shows the textures generation with the newly given data by the user, coded in C++."
         ]
       },
       {
@@ -141,6 +142,16 @@
         "name":"Qt",
         "description":"I used to work on Qt for a small bunch of projects. I got some professional experience with Qt on my first internship where Qt was one of their core libraries.",
         "image":"qt.png"
+      },
+      {
+        "name":"Rhinoceros3D / RhinoSDK",
+        "description":"I had my first experience with the Rhino environment on my internship with RhinoTerrain. It introduced me to a large variety of computer graphics technical notions, I loved using the SDK because of the control it gives compared to other 3D Modeling SDKs.",
+        "image":"rhino.png"
+      },
+      {
+        "name":"MFC",
+        "description":"I use it to implement additional GUI to some of my projects, I quite like it and find it very helpful once you're used to work with it.",
+        "image":"mfc.png"
       },
       {
         "name":"Git",
