@@ -145,12 +145,12 @@
       },
       {
         "name":"Rhinoceros3D / RhinoSDK",
-        "description":"I used to work on Qt for a small bunch of projects. I got some professional experience with Qt on my first internship where Qt was one of their core libraries.",
+        "description":"I had my first experience with the Rhino environment on my internship with RhinoTerrain. It introduced me to a large variety of computer graphics technical notions, I loved using the SDK because of the control it gives compared to other 3D Modeling SDKs.",
         "image":"rhino.png"
       },
       {
         "name":"MFC",
-        "description":"I used to work on Qt for a small bunch of projects. I got some professional experience with Qt on my first internship where Qt was one of their core libraries.",
+        "description":"I use it to implement additional GUI to some of my projects, I quite like it and find it very helpful once you're used to work with it.",
         "image":"mfc.png"
       },
       {
