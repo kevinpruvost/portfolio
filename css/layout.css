@@ -510,7 +510,7 @@ img.skill{
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h4 {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: rgb(221, 221, 221);
+   color: #fff;
 }
 .portfolio-item .portfolio-item-meta h5 {
    font: 18px/26px 'opensans-bold', sans-serif;
