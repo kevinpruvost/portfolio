@@ -21,6 +21,8 @@ class Portfolio extends Component {
                     <div className="portfolio-item-meta">
                       <h5>{project.title}</h5>
                       <p>{project.category}</p>
+                      <br/>
+                      <h4>Click to see the project ! 😉</h4>
                     </div>
                   </div>
                 </a>
