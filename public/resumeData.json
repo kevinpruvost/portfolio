@@ -109,14 +109,9 @@
         "image":"javascript.png"
       },
       {
-        "name":"React JS",
-        "description":"My favorite JS front framework so far, I've worked with it on multiple projects including this portfolio, and I really enjoy its ease of use and its simplicity.",
-        "image":"react.png"
-      },
-      {
-        "name":"Laravel",
-        "description":"I use Laravel, mainly to make the back-end part of my web projects. As the documentation, the templates and the overall code available is pretty clear and practical to use.",
-        "image":"laravel.png"
+        "name":"Lua",
+        "description":"In strong competition with Python for me, I also love this language as used for scripting because of its ease of use and the fact that it is faster than Python. I had a large experience working with it on a World of Warcraft addon.",
+        "image":"lua.png"
       },
       {
         "name":"Unity",
@@ -167,6 +162,16 @@
         "name":"SVN",
         "description":"I used SVN for some projects within the companies I worked with.",
         "image":"svn.png"
+      },
+      {
+        "name":"React JS",
+        "description":"My favorite JS front framework so far, I've worked with it on multiple projects including this portfolio, and I really enjoy its ease of use and its simplicity.",
+        "image":"react.png"
+      },
+      {
+        "name":"Laravel",
+        "description":"I use Laravel, mainly to make the back-end part of my web projects. As the documentation, the templates and the overall code available is pretty clear and practical to use.",
+        "image":"laravel.png"
       },
       {
         "name":"Visual Studio",
