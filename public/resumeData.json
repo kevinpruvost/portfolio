@@ -298,6 +298,18 @@
             "category":"A Duck Hunt like game made with the CSFML library in C.",
             "image":"canardhunt.jpg",
             "url":"https://github.com/kevinpruvost/kevinpruvost_epitech/tree/master/FirstYear/MUL_2018/MUL_my_hunter_2018"
+          },
+          {
+            "title":"ISN Project 🔪",
+            "category":"A 'Hotline Miami'-like game made with Game Maker Studio while I was still in High School with 😁 Hugo Mathieu-Steinbach 😁.",
+            "image":"isn.jpg",
+            "url":"https://github.com/kevinpruvost/old_projects/tree/master/ISN_project"
+          },
+          {
+            "title":"Castor Diploma 🐿",
+            "category":"A contest where we won the 1st place with 😁 Hugo Mathieu-Steinbach 😁 among our high school.",
+            "image":"castor.jpg",
+            "url":"https://github.com/kevinpruvost/portfolio/tree/main/PublicDocuments/Diplome_Castor_Avec_Hugo.pdf"
           }
         ]
       }
