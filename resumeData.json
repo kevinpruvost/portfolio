@@ -304,7 +304,12 @@
             "category":"A 'Hotline Miami'-like game made with Game Maker Studio while I was still in High School with 😁 Hugo Mathieu-Steinbach 😁.",
             "image":"isn.jpg",
             "url":"https://github.com/kevinpruvost/old_projects/tree/master/ISN_project"
-          },
+          }
+        ]
+      },
+      {
+        "title": "2016",
+        "projects": [
           {
             "title":"Castor Diploma 🐿",
             "category":"A contest where we won the 1st place with 😁 Hugo Mathieu-Steinbach 😁 among our high school.",
