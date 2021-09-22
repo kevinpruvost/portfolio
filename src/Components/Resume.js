@@ -17,12 +17,28 @@ class Resume extends Component {
       var skillmessage = this.props.data.skillmessage;
       var education = this.props.data.education.map(function(education){
         var educImage = 'images/work_education/'+ education.logo;
+        var educDesc = null;
+        try {
+          educDesc = <ul>{
+            education.description.map(function(item, idx) {
+              return (
+                <li>
+                      {item}
+                      <br/>
+                </li>
+               )
+          })}</ul>
+        }
+        catch
+        {
+          educDesc = <p>{education.description}</p>
+        }
         return <div key={education.school} className="row" style={{display: 'flex'}}>
           <a href={education.link} target="_blank" style={{flex: '25%', margin: 'auto'}}><img src={educImage} height="128" width="128"/></a>
           <div style={{flex: '75%'}}>
             <h3>{education.school}</h3>
             <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
-            <p>{education.description}</p>
+            {educDesc}
           </div>
         </div>
       })
@@ -41,8 +57,7 @@ class Resume extends Component {
                             <br/>
                       </li>
                      )
-                })
-                
+                })                
               }</ul>
           </div>
         </div>
