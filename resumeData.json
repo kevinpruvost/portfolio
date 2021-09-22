@@ -35,6 +35,24 @@
     "skillmessage":"Here is a list of some of my favorite libraries/softwares I like to work with.",
     "education":[
       {
+        "school":"Tsinghua University, Beijing · China",
+        "degree":"Masters in Advanced Computing",
+        "graduated":"2021 - ...",
+        "logo":"tsinghua.png",
+        "link":"https://ac.cs.tsinghua.edu.cn/curriculum.html",
+        "description": [
+          "Combinatorics & Algorithms Design",
+          "Machine Learning",
+          "Computer Graphics",
+          "Big Data",
+          "Advanced Network Management",
+          "Distributed Database System",
+          "Chinese Language",
+          "Human Computer Interaction Technologies",
+          "A lot of other things to go on..."
+        ]
+      },
+      {
         "school":"EPITECH, Nancy · France",
         "degree":"Masters in IT (Expert en Technologies de l'Information)",
         "graduated":"2018 - 2023",
