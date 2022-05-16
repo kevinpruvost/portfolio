@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Kevin Pruvost",
-    "description":"Hello 🤗 ! I'm a student in Computer Science passionate about Software Engineering, Computer Graphics and Low-Level Programming",
+    "description":"Hello 🤗 ! I'm a student in Computer Science passionate about Software Engineering and Computer Graphics",
     "image":"profilepic.jpg",
-    "bio":"I am a passionate and hardworking developer 👨‍💻, with a team working spirit 👨‍👨‍👦‍👦.\nI developed an interest through my years of coding in Software Engineering, AI, Game Development, Low Level Programming and Computer Graphics. I'm focusing the rest of my studies on these subjects, and for that, I'm currently on a year of studies abroad (maybe multiple) 🧳, in the Tsinghua University, where they teach all of these subjects. For my future career, my ultimate wish is to get a job in one of these specialties, in a company with passionate people from every levels of experience, where everybody wants to share their knowledge and where team work is at its best, in terms of fun but also of efficiency.",
+    "bio":"I am a passionate and hardworking developer 👨‍💻, with a team working spirit 👨‍👨‍👦‍👦.\nI developed a strong interest through my years of coding in Software Engineering & Computer Graphics. I also like Low Level Programming, Game Development and AI. I'm focusing the rest of my studies on these subjects, and for that, I'm currently on a year of studies abroad (maybe multiple) 🧳, in the Tsinghua University, where they teach all of these subjects. For my future career, my ultimate wish is to get a job in one of these specialties, in a company with passionate people from every levels of experience, where everybody wants to share their knowledge and where team work is at its best, in terms of fun but also of efficiency.",
     "contactmessage":"Do not hesitate to contact me, via email ✉️ or phone call ☎️, I'll answer with great pleasure.",
     "email": "pruvostkevin0@gmail.com",
     "phone": "+33 (0)6 88 05 40 78",
@@ -15,9 +15,9 @@
       "state":"Grand Est, France",
       "zip": "54540"
     },
-    "website": "http://www.timbakerdev.com",
-    "enResumedownload":"https://raw.githubusercontent.com/kevinpruvost/portfolio/main/Resumes/Kevin_Pruvost_Resume_EN.pdf",
-    "frResumedownload":"https://raw.githubusercontent.com/kevinpruvost/portfolio/main/Resumes/Kevin_Pruvost_Resume_FR.pdf",
+    "website": "https://kevinpruvost.github.io/portfolio/",
+    "enResumedownload":"https://raw.githubusercontent.com/kevinpruvost/portfolio/main/Resumes/KevinPruvost_Resume_EN.pdf",
+    "frResumedownload":"https://raw.githubusercontent.com/kevinpruvost/portfolio/main/Resumes/KevinPruvost_Resume_FR.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -36,8 +36,8 @@
     "education":[
       {
         "school":"Tsinghua University, Beijing · China",
-        "degree":"Masters in Advanced Computing",
-        "graduated":"2021 - ...",
+        "degree":"Masters in Advanced Computing (Exchange Year)",
+        "graduated":"09/2021 - 07/2022",
         "logo":"tsinghua.png",
         "link":"https://ac.cs.tsinghua.edu.cn/curriculum.html",
         "description": [
@@ -46,11 +46,9 @@
           "Machine Learning",
           "Computer Graphics",
           "Big Data",
-          "Advanced Network Management",
-          "Distributed Database System",
-          "Chinese Language",
           "Human Computer Interaction Technologies",
-          "A lot of other things to go on..."
+          "Distributed Database System",
+          "Chinese Language"
         ]
       },
       {
@@ -216,6 +214,53 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title": "2022",
+        "projects": [
+          {
+            "title":"Raytracing 💻",
+            "category":"Raytracer made in C++ supporting shades, lights and ray collision with spheres, cubes, cylinders, planes...",
+            "image":"raytracing.jpg",
+            "url":"https://github.com/kevinpruvost/Ray_Tracing"
+          },
+          {
+            "title":"Mesh Simplification/Subdivision 👨‍🔬",
+            "category":"Scientific research on making meshes less complex in terms of geometry or smoother.",
+            "image":"mesh_simp.jpg",
+            "url":"https://youtu.be/ZsBp1Gtatng"
+          },
+          {
+            "title":"Phong Illumination Effect 💡",
+            "category":"Experiments on Phong Illumination and how to render it !",
+            "image":"phong.jpg",
+            "url":"https://www.youtube.com/watch?v=ZxSr5YX9_Ec"
+          },
+          {
+            "title":"Experiment on Bezier Surfaces",
+            "category":"Creation of Bezier surfaces via Tesselation Shaders",
+            "image":"bezier.jpg",
+            "url":"https://www.youtube.com/watch?v=5OYFg4Jxs2E"
+          },
+          {
+            "title":"Stars Particle System 🌟",
+            "category":"Experiemnts on Particle Systems and how they work overall",
+            "image":"star_particle_system.jpg",
+            "url":"https://www.youtube.com/watch?v=Q7Rqe0mQsaM"
+          },
+          {
+            "title":"Plantery System ",
+            "category":"Creation of a planetary system and its animation",
+            "image":"planets.jpg",
+            "url":"https://www.youtube.com/watch?v=wFGgL5PE7sc"
+          },
+          {
+            "title":"OpenImages 🤖",
+            "category":"Machine Learning competition where we had to program an AI who is capable of identifying certain classes of image like people, bicycles, animals and other common objects...",
+            "image":"open_image.jpg",
+            "url":"https://github.com/kevinpruvost/OpenImages/tree/darknet-yolov5"
+          }
+        ]
+      },
       {
         "title": "2021",
         "projects": [
