@@ -218,6 +218,12 @@
         "title": "2022",
         "projects": [
           {
+            "title":"Human Skin Rendering 👨‍🔬",
+            "category":"Research on improving skin rendering capabilities through IBL (Image Based Lighting), PBR (Physically Based Rendering) & Separable SSS (Separable Subsurface Scattering).",
+            "image":"skin_render.jpg",
+            "url":"https://youtu.be/P_5v5bezrlM"
+          },
+          {
             "title":"Raytracing 💻",
             "category":"Raytracer made in C++ supporting shades, lights and ray collision with spheres, cubes, cylinders, planes...",
             "image":"raytracing.jpg",
