@@ -35,9 +35,23 @@
     "skillmessage":"Here is a list of some of my favorite libraries/softwares I like to work with.",
     "education":[
       {
+        "school":"EPITECH, Paris · France",
+        "degree":"Masters in IT (Expert en Technologies de l'Information)",
+        "graduated":"2021 - 2023",
+        "logo":"epitech.png",
+        "link":"https://www.epitech.eu/",
+        "description": [
+          "Year of Studies abroad (2021-2022)",
+          "Entrepreneurial project (EIP) about Virtual Reality methods of movement to improve immersion",
+          "Computer Graphics",
+          "Machine Learning",
+          "..."
+        ]
+      },
+      {
         "school":"Tsinghua University, Beijing · China",
         "degree":"Masters in Advanced Computing (Exchange Year)",
-        "graduated":"09/2021 - 07/2022",
+        "graduated":"2021 - 2022",
         "logo":"tsinghua.png",
         "link":"https://ac.cs.tsinghua.edu.cn/curriculum.html",
         "description": [
@@ -53,8 +67,8 @@
       },
       {
         "school":"EPITECH, Nancy · France",
-        "degree":"Masters in IT (Expert en Technologies de l'Information)",
-        "graduated":"2018 - 2023",
+        "degree":"Bachelors in IT (Expert en Technologies de l'Information)",
+        "graduated":"2018 - 2021",
         "logo":"epitech.png",
         "link":"https://www.epitech.eu/",
         "description":"Mathematics, Unix Systems, Shell, Multithreading, Functional Programming, AI, GUI, Dynamic Linking, Low-Level Programming, Computer Graphics (SFML, SDL, CSFML, OpenGL), Web & Mobile Development."
