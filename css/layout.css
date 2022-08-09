@@ -1032,6 +1032,7 @@ footer .social-links li:first-child { margin-left: 0; }
    margin-right: 30px;
 }
 .social .btn{
+   margin-right: 30px;
    padding-left: 30px;
    padding-right: 30px; 
 }
