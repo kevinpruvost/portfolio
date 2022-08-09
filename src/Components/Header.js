@@ -9,6 +9,7 @@ class Header extends Component {
     if(this.props.data){
        var linkedin = this.props.data.linkedin;
        var github = this.props.data.github;
+       var wechat = this.props.data.wechat;
       var name = this.props.data.name;
       var description= this.props.data.description;
       var city= this.props.data.address.city;
