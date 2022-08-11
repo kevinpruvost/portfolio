@@ -9,7 +9,7 @@
     "phone": "+33 (0)6 88 05 40 78",
     "github":"https://github.com/kevinpruvost",
     "linkedin":"https://www.linkedin.com/in/kevin-pruvost-3766a4178/",
-    "wechat": "https://u.wechat.com/kNJkgmurWxiRZ7K0I34s3_s",
+    "wechat": "https://raw.githubusercontent.com/kevinpruvost/portfolio/main/public/images/wechat_qrcode.jpg",
     "address":{
       "street":"28 rue de la croix jacob",
       "city":"Badonviller",
@@ -29,6 +29,11 @@
         "name":"github",
         "url":"https://github.com/kevinpruvost",
         "className":"fa fa-github"
+      },
+      {
+        "name":"wechat",
+        "url":"https://raw.githubusercontent.com/kevinpruvost/portfolio/main/public/images/wechat_qrcode.jpg",
+        "className":"fa fa-wechat"
       }
     ]
   },
