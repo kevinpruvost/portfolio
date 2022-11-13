@@ -90,8 +90,18 @@
     ],
     "work":[
       {
+        "company":"Red Art Games, Metz",
+        "title":"Internship - Porting / Computer Graphics Developer",
+        "years":"September 2022 - Present",
+        "logo":"redartgames.png",
+        "link":"https://www.redartgames.com",
+        "description":[
+          "Currently working..."
+        ]
+      },
+      {
         "company":"RhinoTerrain, Nancy",
-        "title":"Internship - C++ Developer",
+        "title":"Internship - C++ / Computer Graphics Researcher & Developer",
         "years":"April 2021 - July 2021",
         "logo":"rhinoterrain.png",
         "link":"https://www.rhinoterrain.com/fr/",
@@ -237,6 +247,12 @@
       {
         "title": "2022",
         "projects": [
+          {
+            "title":"Unreal Tower Defense 🗡️",
+            "category":"Tower Defense made on Unreal Engine 5 for me to discover the engine.",
+            "image":"utowerdefense.jpg",
+            "url":"https://youtu.be/YqPdBJ45x5U"
+          },
           {
             "title":"Human Skin Rendering 👨‍🔬",
             "category":"Research on improving skin rendering capabilities through IBL (Image Based Lighting), PBR (Physically Based Rendering) & Separable SSS (Separable Subsurface Scattering).",
