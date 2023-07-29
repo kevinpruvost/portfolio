@@ -17,6 +17,7 @@
       "zip": "54540"
     },
     "website": "https://kevinpruvost.github.io/portfolio/",
+    "Resumedownload":"https://raw.githubusercontent.com/kevinpruvost/portfolio/main/Resumes/KevinPruvost_Resume.pdf",
     "enResumedownload":"https://raw.githubusercontent.com/kevinpruvost/portfolio/main/Resumes/KevinPruvost_Resume_EN.pdf",
     "frResumedownload":"https://raw.githubusercontent.com/kevinpruvost/portfolio/main/Resumes/KevinPruvost_Resume_FR.pdf",
     "social":[
@@ -41,6 +42,25 @@
     "skillmessage":"Here is a list of some of my favorite libraries/softwares I like to work with.",
     "education":[
       {
+        "school":"Tsinghua University, Beijing · China",
+        "degree":"Master's degree in Advanced Computing",
+        "graduated":"2023 - 2025",
+        "logo":"tsinghua.png",
+        "link":"https://ac.cs.tsinghua.edu.cn/curriculum.html",
+        "description": [
+          "One of the top universities in the world !",
+          "Combinatorics & Algorithms Design",
+          "Machine Learning",
+          "Computer Graphics",
+          "Big Data",
+          "Human Computer Interaction Technologies",
+          "Distributed Database System",
+          "Advanced Network Management",
+          "Distributed Systems",
+          "Chinese Language"
+        ]
+      },
+      {
         "school":"EPITECH, Paris · France",
         "degree":"Masters in IT (Expert en Technologies de l'Information)",
         "graduated":"2021 - 2023",
@@ -56,12 +76,11 @@
       },
       {
         "school":"Tsinghua University, Beijing · China",
-        "degree":"Masters in Advanced Computing (Exchange Year)",
+        "degree":"Exchange Program in Advanced Computing",
         "graduated":"2021 - 2022",
         "logo":"tsinghua.png",
         "link":"https://ac.cs.tsinghua.edu.cn/curriculum.html",
         "description": [
-          "One of the top universities in the world !",
           "Combinatorics & Algorithms Design",
           "Machine Learning",
           "Computer Graphics",
@@ -166,9 +185,24 @@
         "image":"unity.png"
       },
       {
-        "name":"Unreal Engine 4",
+        "name":"Unreal Engine 5",
         "description":"As well as my love of Python vs. C++, I think pretty much the same about Unity vs. Unreal Engine. The only different point is that I practiced Unreal Engine less because of its needs in terms of performance.",
         "image":"ue4.png"
+      },
+      {
+        "name":"MonoGame",
+        "description":"Minimalist game engine made by Microsoft, I had to use it mainly because some porting projects I've had were by developers who used this engine. I like its simplicity and the fact that people with strong knowledge background can find much freedom of creativity by using this engine.",
+        "image":"monogame.png"
+      },
+      {
+        "name":"NX",
+        "description":"I've had experience in implmenting the software & hardware features of the Nintendo Switch console for some custom game engines such as MonoGame and for porting games.",
+        "image":"nintendo.png"
+      },
+      {
+        "name":"Orbis & Prospero",
+        "description":"Orbis & Prospero are the SDKs used for using the PlayStation4 & PlayStation5 consoles, I had the opportunity to use them for porting games on these consoles as well as adapting custom game engines for them to get additional porting capabilities.",
+        "image":"sony.png"
       },
       {
         "name":"Vulkan",
