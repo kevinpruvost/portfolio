@@ -1,7 +1,7 @@
 {
   "main": {
-    "name":"Kevin Pruvost",
-    "description":"Hello 🤗 ! I'm a student in Computer Science passionate about Software Engineering and Computer Graphics",
+    "name":"Kevin Pruvost | 潘凯文",
+    "description":"Hello 🤗 ! I'm a Software Engineer passionate about Computer Graphics and Machine Learning",
     "image":"profilepic.jpg",
     "bio":"I am a passionate and hardworking developer 👨‍💻, with a team working spirit 👨‍👨‍👦‍👦.\nI developed a strong interest through my years of coding in Software Engineering & Computer Graphics. I also like Low Level Programming, Game Development and AI. I'm focusing the rest of my studies on these subjects, and for that, I'm currently on a year of studies abroad (maybe multiple) 🧳, in the Tsinghua University, where they teach all of these subjects. For my future career, my ultimate wish is to get a job in one of these specialties, in a company with passionate people from every levels of experience, where everybody wants to share their knowledge and where team work is at its best, in terms of fun but also of efficiency.",
     "contactmessage":"Do not hesitate to contact me, via email ✉️ or phone call ☎️, I'll answer with great pleasure.",
@@ -9,7 +9,7 @@
     "phone": "+33 (0)6 88 05 40 78",
     "github":"https://github.com/kevinpruvost",
     "linkedin":"https://www.linkedin.com/in/kevin-pruvost-3766a4178/",
-    "wechat": "https://raw.githubusercontent.com/kevinpruvost/portfolio/main/public/images/wechat_qrcode.jpg",
+    "wechat": "https://raw.githubusercontent.com/kevinpruvost/portfolio/main/public/images/wechat_qrcode.png",
     "address":{
       "street":"28 rue de la croix jacob",
       "city":"Badonviller",
@@ -17,6 +17,7 @@
       "zip": "54540"
     },
     "website": "https://kevinpruvost.github.io/portfolio/",
+    "Resumedownload":"https://raw.githubusercontent.com/kevinpruvost/portfolio/main/Resumes/KevinPruvost_Resume.pdf",
     "enResumedownload":"https://raw.githubusercontent.com/kevinpruvost/portfolio/main/Resumes/KevinPruvost_Resume_EN.pdf",
     "frResumedownload":"https://raw.githubusercontent.com/kevinpruvost/portfolio/main/Resumes/KevinPruvost_Resume_FR.pdf",
     "social":[
@@ -32,7 +33,7 @@
       },
       {
         "name":"wechat",
-        "url":"https://raw.githubusercontent.com/kevinpruvost/portfolio/main/public/images/wechat_qrcode.jpg",
+        "url":"https://raw.githubusercontent.com/kevinpruvost/portfolio/main/public/images/wechat_qrcode.png",
         "className":"fa fa-wechat"
       }
     ]
@@ -40,6 +41,25 @@
   "resume":{
     "skillmessage":"Here is a list of some of my favorite libraries/softwares I like to work with.",
     "education":[
+      {
+        "school":"Tsinghua University, Beijing · China",
+        "degree":"Master's degree in Advanced Computing",
+        "graduated":"2023 - 2025",
+        "logo":"tsinghua.png",
+        "link":"https://ac.cs.tsinghua.edu.cn/curriculum.html",
+        "description": [
+          "One of the top universities in the world !",
+          "Combinatorics & Algorithms Design",
+          "Machine Learning",
+          "Computer Graphics",
+          "Big Data",
+          "Human Computer Interaction Technologies",
+          "Distributed Database System",
+          "Advanced Network Management",
+          "Distributed Systems",
+          "Chinese Language"
+        ]
+      },
       {
         "school":"EPITECH, Paris · France",
         "degree":"Masters in IT (Expert en Technologies de l'Information)",
@@ -56,12 +76,11 @@
       },
       {
         "school":"Tsinghua University, Beijing · China",
-        "degree":"Masters in Advanced Computing (Exchange Year)",
+        "degree":"Exchange Program in Advanced Computing",
         "graduated":"2021 - 2022",
         "logo":"tsinghua.png",
         "link":"https://ac.cs.tsinghua.edu.cn/curriculum.html",
         "description": [
-          "One of the top universities in the world !",
           "Combinatorics & Algorithms Design",
           "Machine Learning",
           "Computer Graphics",
@@ -166,9 +185,24 @@
         "image":"unity.png"
       },
       {
-        "name":"Unreal Engine 4",
+        "name":"Unreal Engine 5",
         "description":"As well as my love of Python vs. C++, I think pretty much the same about Unity vs. Unreal Engine. The only different point is that I practiced Unreal Engine less because of its needs in terms of performance.",
         "image":"ue4.png"
+      },
+      {
+        "name":"MonoGame",
+        "description":"Minimalist game engine made by Microsoft, I had to use it mainly because some porting projects I've had were by developers who used this engine. I like its simplicity and the fact that people with strong knowledge background can find much freedom of creativity by using this engine.",
+        "image":"monogame.png"
+      },
+      {
+        "name":"NX",
+        "description":"I've had experience in implmenting the software & hardware features of the Nintendo Switch console for some custom game engines such as MonoGame and for porting games.",
+        "image":"nintendo.png"
+      },
+      {
+        "name":"Orbis & Prospero",
+        "description":"Orbis & Prospero are the SDKs used for using the PlayStation4 & PlayStation5 consoles, I had the opportunity to use them for porting games as well as adapting custom game engines for these platforms.",
+        "image":"sony.png"
       },
       {
         "name":"Vulkan",
