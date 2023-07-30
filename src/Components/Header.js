@@ -1,9 +1,16 @@
-import React, { Component } from 'react';
+import React, { Component, useState } from 'react';
 import ParticlesBg  from "particles-bg";
 import Anime, {anime} from 'react-anime';
 import { VFXProvider } from 'react-vfx';
 
+import { ImagePopup } from './BubblePopup';
+
 class Header extends Component {
+   constructor(props) {
+      super(props);
+      this.state = { popupOpen: false };
+   }
+
   render() {
 
     if(this.props.data){
@@ -56,6 +63,14 @@ class Header extends Component {
       f: config.f, // force
     };
 
+    const openPopup = () => {
+      this.setState({ popupOpen: true });
+    };
+  
+    const closePopup = () => {
+      this.setState({ popupOpen: false });
+    };
+
     return (
       <header id="home">
       <ParticlesBg className="header" type="custom" config={config} bg={true}></ParticlesBg>
@@ -84,7 +99,13 @@ class Header extends Component {
             <ul className="social">
                <a href={linkedin} target="_blank" className="button btn linkedin-btn"><i className="fa fa-linkedin"></i>Linkedin</a>
                <a href={github} target="_blank" className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
-               <a href={wechat} target="_blank" className="button btn wechat-btn"><i className="fa fa-weixin"></i>WeChat</a>
+               <a onClick={openPopup} className="button btn wechat-btn"><i className="fa fa-weixin"></i>WeChat</a>
+               {this.state.popupOpen &&
+                  <ImagePopup
+                    imageUrl={wechat}
+                    onClose={closePopup}
+                  />
+               }
             </ul>
          </div>
          </Anime>
