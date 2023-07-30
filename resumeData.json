@@ -201,7 +201,7 @@
       },
       {
         "name":"Orbis & Prospero",
-        "description":"Orbis & Prospero are the SDKs used for using the PlayStation4 & PlayStation5 consoles, I had the opportunity to use them for porting games on these consoles as well as adapting custom game engines for them to get additional porting capabilities.",
+        "description":"Orbis & Prospero are the SDKs used for using the PlayStation4 & PlayStation5 consoles, I had the opportunity to use them for porting games as well as adapting custom game engines for these platforms.",
         "image":"sony.png"
       },
       {
