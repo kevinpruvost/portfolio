@@ -8,7 +8,7 @@ export const ImagePopup = ({ imageUrl, onClose }) => {
     return (
       <div className="image-popup">
         <div className="bubble">
-          <img src={imageUrl} alt="Popup" />
+          <img href={imageUrl} src={imageUrl} alt="Popup" />
         </div>
         <button className="close-button" onClick={onClose}>
           Close

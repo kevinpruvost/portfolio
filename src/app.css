@@ -36,19 +36,3 @@ header {
 body {
     background: repeating-radial-gradient(#1607ba, #120119)
 }
-
-@keyframes bubble {
-  0% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.1);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
-
-.modal img {
-  animation: bubble 2s infinite;
-}

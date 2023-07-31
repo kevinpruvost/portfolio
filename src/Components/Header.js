@@ -89,7 +89,7 @@ class Header extends Component {
       </nav>
 
       <div className="row banner">
-         <Anime elasticity={50} easing='easeOutExpo' duration={5000} opacity={[0, 1]}>
+         <Anime elasticity={50} easing='easeOutExpo' duration={5000} opacity={[1, 1]}>
       
          <div className="banner-text">
             <h1 className="responsive-headline">{name}</h1>

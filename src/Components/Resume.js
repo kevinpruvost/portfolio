@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Portfolio from './Portfolio';
 
 class Resume extends Component {
 
