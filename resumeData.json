@@ -43,8 +43,8 @@
     "education":[
       {
         "school":"Tsinghua University, Beijing · China",
-        "degree":"Master's degree in Advanced Computing",
-        "graduated":"2023 - 2025",
+        "degree":"Master's degree in Advanced Computing + Exchange Program in Advanced Computing",
+        "graduated":"2021-22 / 2023 - 2025",
         "logo":"tsinghua.png",
         "link":"https://ac.cs.tsinghua.edu.cn/curriculum.html",
         "description": [
@@ -61,42 +61,25 @@
         ]
       },
       {
-        "school":"EPITECH, Paris · France",
+        "school":"EPITECH, Paris · France & Metz · France",
         "degree":"Masters in IT (Expert en Technologies de l'Information)",
         "graduated":"2021 - 2023",
         "logo":"epitech.png",
         "link":"https://www.epitech.eu/",
         "description": [
           "Year of Studies abroad (2021-2022)",
-          "Entrepreneurial project (EIP) about Virtual Reality methods of movement to improve immersion",
-          "Computer Graphics",
+          "Computer Graphics (SFML, SDL, CSFML, OpenGL)",
           "Machine Learning",
+          "Mathematics",
+          "Unix Systems",
+          "Multithreading & Parallel Programming",
+          "Functional Programming",
+          "GUI",
+          "Low-Level Programming",
+          "Web & Mobile Development.",
+          "Entrepreneurial project (EIP) about Virtual Reality methods of movement to improve immersion",
           "..."
         ]
-      },
-      {
-        "school":"Tsinghua University, Beijing · China",
-        "degree":"Exchange Program in Advanced Computing",
-        "graduated":"2021 - 2022",
-        "logo":"tsinghua.png",
-        "link":"https://ac.cs.tsinghua.edu.cn/curriculum.html",
-        "description": [
-          "Combinatorics & Algorithms Design",
-          "Machine Learning",
-          "Computer Graphics",
-          "Big Data",
-          "Human Computer Interaction Technologies",
-          "Distributed Database System",
-          "Chinese Language"
-        ]
-      },
-      {
-        "school":"EPITECH, Nancy · France",
-        "degree":"Bachelors in IT (Expert en Technologies de l'Information)",
-        "graduated":"2018 - 2021",
-        "logo":"epitech.png",
-        "link":"https://www.epitech.eu/",
-        "description":"Mathematics, Unix Systems, Shell, Multithreading, Functional Programming, AI, GUI, Dynamic Linking, Low-Level Programming, Computer Graphics (SFML, SDL, CSFML, OpenGL), Web & Mobile Development."
       },
       {
         "school":"Lycée Jacques-Marie Boutet de Monvel,\nLunéville · France",
