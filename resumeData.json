@@ -3,13 +3,14 @@
     "name":"Kevin Pruvost | 潘凯文",
     "description":"Hello 🤗 ! I'm a Software Engineer passionate about Computer Graphics and Machine Learning",
     "image":"profilepic.jpg",
-    "bio":"I am a passionate and hardworking developer 👨‍💻, with a team working spirit 👨‍👨‍👦‍👦.\nI grew a strong interest through my years of coding in Computer Graphics & Machine Learning. I also like Low Level Programming and other technically challenging subjects. I'm focusing the rest of my studies on these subjects, and for that, I'm about to start my second master's degree at Tsinghua University 🧳, where they teach all of these subjects. For the future, my wish is to share my expertise for these matters in a visionary company to produce state of the art technologies.",
+    "bio":"I am a Low-Level Systems & Computer Graphics developer 👨‍💻, with a team working spirit 👨‍👨‍👦‍👦.\n. I like all kinds of technically challenging subjects. I'm focusing the rest of my studies on these subjects, and for that, I'm about to finish my second master's degree at Tsinghua University 🧳, where they teach all of these subjects. For the future, my wish is to share my expertise for these matters in a visionary company to produce state of the art technologies.",
     "contactmessage":"Do not hesitate to contact me, via email ✉️ or phone call ☎️, I'll answer with great pleasure.",
     "email": "pruvostkevin0@gmail.com",
     "phone": "+33 (0)6 88 05 40 78",
     "github":"https://github.com/kevinpruvost",
-    "linkedin":"https://www.linkedin.com/in/kevin-pruvost-3766a4178/",
+    "linkedin":"https://www.linkedin.com/in/kevinpruvost/",
     "wechat": "https://raw.githubusercontent.com/kevinpruvost/portfolio/main/public/images/wechat_qrcode.png",
+    "youtube":"https://www.youtube.com/@kevinpruvostpkw",
     "address":{
       "street":"28 rue de la croix jacob",
       "city":"Badonviller",
@@ -35,6 +36,11 @@
         "name":"wechat",
         "url":"https://raw.githubusercontent.com/kevinpruvost/portfolio/main/public/images/wechat_qrcode.png",
         "className":"fa fa-wechat"
+      },
+      {
+        "name":"youtube",
+        "url":"https://www.youtube.com/@kevinpruvostpkw",
+        "className":"fa fa-youtube"
       }
     ]
   },
@@ -43,12 +49,15 @@
     "education":[
       {
         "school":"Tsinghua University, Beijing · China",
-        "degree":"Master's degree in Advanced Computing + Exchange Program in Advanced Computing",
-        "graduated":"2021-22 / 2023 - 2025",
+        "degree":"Master's degree in Advanced Computing",
+        "graduated":"2023 - 2025",
         "logo":"tsinghua.png",
         "link":"https://ac.cs.tsinghua.edu.cn/curriculum.html",
         "description": [
-          "One of the top universities in the world !",
+          "Grade: 4.0/4.0",
+          "Ranking: 1/63",
+          "Granted with the Chinese Government Scholarship (CGS).",
+          "Top 1 University in Asia in Engineering & Technology (QS 2024).",
           "Combinatorics & Algorithms Design",
           "Machine Learning",
           "Computer Graphics",
@@ -61,25 +70,42 @@
         ]
       },
       {
-        "school":"EPITECH, Paris · France & Metz · France",
-        "degree":"Master's degree & Bachelor's degree in IT (Expert en Technologies de l'Information)",
+        "school":"EPITECH, Paris · France",
+        "degree":"Masters in IT (Expert en Technologies de l'Information)",
         "graduated":"2021 - 2023",
         "logo":"epitech.png",
         "link":"https://www.epitech.eu/",
         "description": [
           "Year of Studies abroad (2021-2022)",
-          "Computer Graphics (SFML, SDL, CSFML, OpenGL)",
-          "Machine Learning",
-          "Mathematics",
-          "Unix Systems",
-          "Multithreading & Parallel Programming",
-          "Functional Programming",
-          "GUI",
-          "Low-Level Programming",
-          "Web & Mobile Development.",
           "Entrepreneurial project (EIP) about Virtual Reality methods of movement to improve immersion",
+          "Computer Graphics",
+          "Machine Learning",
           "..."
         ]
+      },
+      {
+        "school":"Tsinghua University, Beijing · China",
+        "degree":"Exchange Program in Advanced Computing",
+        "graduated":"2021 - 2022",
+        "logo":"tsinghua.png",
+        "link":"https://ac.cs.tsinghua.edu.cn/curriculum.html",
+        "description": [
+          "Combinatorics & Algorithms Design",
+          "Machine Learning",
+          "Computer Graphics",
+          "Big Data",
+          "Human Computer Interaction Technologies",
+          "Distributed Database System",
+          "Chinese Language"
+        ]
+      },
+      {
+        "school":"EPITECH, Nancy · France",
+        "degree":"Bachelors in IT (Expert en Technologies de l'Information)",
+        "graduated":"2018 - 2021",
+        "logo":"epitech.png",
+        "link":"https://www.epitech.eu/",
+        "description":"Mathematics, Unix Systems, Shell, Multithreading, Functional Programming, AI, GUI, Dynamic Linking, Low-Level Programming, Computer Graphics (SFML, SDL, CSFML, OpenGL), Web & Mobile Development."
       },
       {
         "school":"Lycée Jacques-Marie Boutet de Monvel,\nLunéville · France",
@@ -92,17 +118,45 @@
     ],
     "work":[
       {
-        "company":"Red Art Games, Metz · France",
-        "title":"Internship - Porting / Computer Graphics Developer",
-        "years":"September 2022 - Present",
-        "logo":"redartgames.png",
-        "link":"https://www.redartgames.com",
-        "description":[
-          "Currently working..."
+        "company": "Tsinghua University, Beijing",
+        "title": "Teaching Assistant (TA) of Computer Graphics",
+        "years": "February 2025 - June 2025",
+        "logo": "tsinghua.png",
+        "link": "https://ac.cs.tsinghua.edu.cn/",
+        "description": [
+          "Teaching Assistant for the 'Fundamentals of Computer Graphics' class for Professor Liu Yong-Jin",
+          "Delivered 2 hours of technical lectures per week on the fundamentals of computer graphics",
+          "Provided student assistance 7 days a week",
+          "Evaluated student project submissions"
         ]
       },
       {
-        "company":"RhinoTerrain, Nancy · France",
+        "company": "Red Art Games, Beijing (remote)",
+        "title": "C++ Software Engineer",
+        "years": "February 2024 - September 2024",
+        "logo":"redartgames.png",
+        "link":"https://www.redartgames.com",
+        "description": [
+          "Freelance contract, Implementation of an Emulator for a Game Engine (in part-time)",
+          "Graphics Framework (SDL)",
+          "Audio Framework (MP3, WAV, etc.)",
+          "Development of a custom standard library",
+          "Console Compatibility (PlayStation, Nintendo Switch, Xbox)"
+        ]
+      },
+      {
+        "company":"Red Art Games, Metz",
+        "title":"Computer Graphics / Game Porting Developer",
+        "years":"September 2022 - August 2023",
+        "logo":"redartgames.png",
+        "link":"https://www.redartgames.com",
+        "description":[
+          "Implementation of Sony & Nintendo's SDKs (PS4, PS5 & Switch) for game porting on MonoGame.",
+          "Porting of the game \"Jets'N'Guns 2\" for Nintendo Switch, PlayStation4 & PlayStation5."
+        ]
+      },
+      {
+        "company":"RhinoTerrain, Nancy",
         "title":"Internship - C++ / Computer Graphics Researcher & Developer",
         "years":"April 2021 - July 2021",
         "logo":"rhinoterrain.png",
@@ -113,7 +167,7 @@
         ]
       },
       {
-        "company":"Virtual Rangers, Luxembourg (city) · Luxembourg",
+        "company":"Virtual Rangers, Luxembourg",
         "title":"Internship - C# / Unity Developer",
         "years":"September 2020 - January 2021",
         "logo":"vrangers.png",
@@ -143,8 +197,13 @@
         "image":"c++.png"
       },
       {
-        "name":"💙 Python 💙",
-        "description":"My second preferred language, it could be seen as pretty contradictory considering that my favorite language is C++. But the large variety of syntaxic sugars it has makes it much funnier to code for me.",
+        "name":"💙 Rust 💙",
+        "description":"My second preferred language. I aim to be an expert with this language in the future, at least as much as I have experience with C++ as it brings memory safety and other advantages that I truly love, multithreading is such a joy to do with Rust.",
+        "image":"python.png"
+      },
+      {
+        "name":"Python",
+        "description":"One language I have worked a lot with, considering I have done research in Computer Vision.",
         "image":"python.png"
       },
       {
@@ -158,8 +217,18 @@
         "image":"javascript.png"
       },
       {
+        "name":"Go",
+        "description":"Syntaxic sugars, libraries and features are just such a great combination with this language and the community is also incredible. I don't have much experience though, I just did some of the Advent Of Code challenges with that.",
+        "image":"golang.png"
+      },
+      {
+        "name":"Swift",
+        "description":"Swift is also one of the languages I want to focus on for its overall capabilities but I'm not very knowledgeable about it yet. Same as with Go, I just did some code challenges with this language and loved it.",
+        "image":"swift.png"
+      },
+      {
         "name":"Lua",
-        "description":"In strong competition with Python for me, I also love this language as used for scripting because of its ease of use and the fact that it is faster than Python. I had a large experience working with it on a World of Warcraft addon.",
+        "description":"I love this language for scripting because of its ease of use and the fact that it is faster than Python. I had a large experience working with it on World of Warcraft add-ons.",
         "image":"lua.png"
       },
       {
@@ -189,7 +258,7 @@
       },
       {
         "name":"Vulkan",
-        "description":"I'm still discovering this graphics API, but I love it for the control it gives, its performance and the cross-platform capacities it has. I followed a very long course on Vulkan and I'll continue to work on it.",
+        "description":"I'm mastering this graphics API with my research and VenomEngine, I like it for the control it gives and its cross-platform capacities. But I wish to master Metal and DirectX12 more, because from experience, I have seen that they were more performant and the overall software architecture is so much better on these other APIs.",
         "image":"vulkan.png"
       },
       {
@@ -204,12 +273,12 @@
       },
       {
         "name":"Rhinoceros3D / RhinoSDK",
-        "description":"I had my first experience with the Rhino environment on my internship with RhinoTerrain. I loved using the SDK because of the control it gives compared to other 3D Modeling SDKs.",
+        "description":"I had my first experience with the Rhino environment on my internship with RhinoTerrain. I loved using this SDK because of the control it gives compared to other CAD softwares.",
         "image":"rhino.png"
       },
       {
         "name":"MFC",
-        "description":"I use it to implement additional GUI to some of my projects, I quite like it and find it very helpful once you're used to work with it.",
+        "description":"I used it to implement additional GUI to some of my projects, I quite like it and find it very helpful once you're used to work with it.",
         "image":"mfc.png"
       },
       {
