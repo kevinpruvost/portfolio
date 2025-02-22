@@ -331,6 +331,17 @@
   "portfolio":{
     "projects": [
       {
+        "title":"2025",
+        "projects": [
+          {
+          "title":"Venom Engine 🐍",
+          "category":"Experimental Realtime Rendering Modular Engine made in C++ with Vulkan (for now), supporting Disney Principled BSDF, ECS (Entities Components Systems), PBR (Physically Based Rendering), IBL (Image Based Lighting), Forward+ Rendering, Cascaded Shadow Mapping (CSM),  ...",
+          "image":"venom.jpg",
+          "url":"https://www.youtube.com/watch?v=TQTM1OYonFA&t=15s"
+          }
+        ]
+      },
+      {
         "title": "2022",
         "projects": [
           {
