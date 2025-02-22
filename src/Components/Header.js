@@ -17,6 +17,7 @@ class Header extends Component {
        var linkedin = this.props.data.linkedin;
        var github = this.props.data.github;
        var wechat = this.props.data.wechat;
+       var youtube = this.props.data.youtube;
       var name = this.props.data.name;
       var description= this.props.data.description;
       var city= this.props.data.address.city;
@@ -99,6 +100,7 @@ class Header extends Component {
             <ul className="social">
                <a href={linkedin} target="_blank" className="button btn linkedin-btn"><i className="fa fa-linkedin"></i>Linkedin</a>
                <a href={github} target="_blank" className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
+               <a href={youtube} target="_blank" className="button btn youtube-btn"><i className="fa fa-youtube"></i>Youtube</a>
                <a onClick={openPopup} className="button btn wechat-btn"><i className="fa fa-weixin"></i>WeChat</a>
                {this.state.popupOpen &&
                   <ImagePopup
