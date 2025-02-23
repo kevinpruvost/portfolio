@@ -323,6 +323,16 @@
         "name":"Emacs",
         "description":"The first IDE I coded with. I'm not using it anymore nowadays, but it's a good souvenir to keep.",
         "image":"emacs.png"
+      },
+      {
+        "name": "CLion",
+        "description": "I use it sometimes for my C++ projects on MacOS.",
+        "image": "clion.png"
+      },
+      {
+        "name": "Xcode",
+        "description": "I actually love this IDE for all kinds of projects, the features that Apple brought on XCode are very good especially for the debugging part.",
+        "image": "xcode.png"
       }
     ]
   },
