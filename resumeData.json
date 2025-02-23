@@ -241,7 +241,7 @@
       },
       {
         "name":"MonoGame",
-        "description":"Minimalist game engine made by Microsoft, I had to use it mainly because some porting projects I've had were by developers who used this engine. I like its simplicity and the fact that people with strong knowledge background can find much freedom of creativity by using this engine.",
+        "description":"Minimalist game engine made by Microsoft, I had to use it mainly because some porting projects I've had were by developers who used this engine.",
         "image":"monogame.png"
       },
       {
@@ -256,7 +256,7 @@
       },
       {
         "name":"Vulkan",
-        "description":"I'm mastering this graphics API with my research and VenomEngine, I like it for the control it gives and its cross-platform capacities. But I wish to master Metal and DirectX12 more, because from experience, I have seen that they were more performant and the overall software architecture is so much better on these other APIs.",
+        "description":"I'm mastering this graphics API with my research and VenomEngine. But I wish to master Metal and DirectX12 more, because from experience, I have seen that they were more performant and the overall software architecture is so much better on these other APIs.",
         "image":"vulkan.png"
       },
       {
