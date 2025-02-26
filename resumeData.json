@@ -350,6 +350,28 @@
         ]
       },
       {
+        "title":"2024",
+        "projects": [
+          {
+            "title":"GradeADreamer: Enhanced Text-to-3D Generation Using Gaussian Splatting and Multi-View Diffusion 🌌",
+            "category":"Paper I did with Trapoom Ukarapol about improving the SoTA of Text-to-3D methods using Gaussian Splatting and MVD",
+            "image":"gradeadreamer.jpg",
+            "url":"https://arxiv.org/abs/2406.09850"
+          }
+        ]
+      },
+      {
+        "title":"2023",
+        "projects": [
+          {
+            "title":"Jets'N'Guns 2 🚀",
+            "category":"Porting of the game 'Jets'N'Guns 2' for Nintendo Switch, PlayStation4 & PlayStation5.",
+            "image":"",
+            "url":"https://www.youtube.com/watch?v=vJN4HxGPBgE"
+          }
+        ]
+      },
+      {
         "title": "2022",
         "projects": [
           {
